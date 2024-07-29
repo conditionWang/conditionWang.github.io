@@ -44,23 +44,23 @@ I aim to create socially responsible machine learning (ML) models, i.e., ML mode
 
 
 # 📝 Publications 
-*denotes equal contribution, ** denotes alphabetical order, # denotes corresponding authors
+\* denotes equal contribution, \*\* denotes alphabetical order, # denotes corresponding authors
 
 ### Preprint
 - _**Practical Unlearning for Large Language Models**_
-  - Chongyang Gao**, **Lixu Wang**** #, Chenkai Weng, Xiao Wang, Qi Zhu
+  - Chongyang Gao\*\*, **Lixu Wang**\*\* #, Chenkai Weng, Xiao Wang, Qi Zhu
   - Arxiv 2024
 - _**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_
   - **Lixu Wang**, Xinyu Du, Qi Zhu
   - Arxiv 2024
 - **_Phase-driven Generalization for Nonstationary Time Series_**
-  - Payal Mohapatra*, **Lixu Wang***, Qi Zhu
+  - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
   - Arxiv 2024
 - **_Federated Learning with New Knowledge: Fundamentals, Advances, and Futures_**
   - **Lixu Wang**, Yang Zhao, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
   - Arxiv 2024
 - **_Federated Continual Novel Class Learning_**
-  - **Lixu Wang***, Chenxi Liu*, Junfeng Guo, Xiao Wang, Heng Huang, Qi Zhu
+  - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Xiao Wang, Heng Huang, Qi Zhu
   - Arxiv 2023
 - **_Exploring Backdoor Attacks against Large Language Model-based Decision Making_**
   - Ruochen Jiao, Shaoyuan Xie, Justin Yue, Takami Sato, **Lixu Wang**, Yixuan Wang, Qi Alfred Chen, Qi Zhu
@@ -73,19 +73,19 @@ I aim to create socially responsible machine learning (ML) models, i.e., ML mode
 ### Peer-reviewed Conferences
 
 - _**Deja Vu: Continual Model Generalization for Unseen Domains**_
-  - Chenxi Liu**, **Lixu Wang**** #, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
+  - Chenxi Liu\*\*, **Lixu Wang**\*\* #, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2023**
 - _**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**_
   - **Lixu Wang**, Shichao Xu, Xinyu Du, Qi Zhu
   - International Conference on Acoustics, Speech, and Signal Processing, **ICASSP 2024**
 - _**Federated Class-Incremental Learning**_
-  - Jiahua Dong**, **Lixu Wang****, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
+  - Jiahua Dong\*\*, **Lixu Wang**\*\*, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2022**
 - _**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_
-  - **Lixu Wang***, Shichao Xu*, Ruiqi Xu, Xiao Wang, Qi Zhu
+  - **Lixu Wang**\*, Shichao Xu\*, Ruiqi Xu, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2022 Oral**
 - _**Weak Adaptation Learning: Addressing Cross-domain Data Insufficiency with Weak Annotator**_
-  - Shichao Xu*, **Lixu Wang***, Yixuan Wang, Qi Zhu
+  - Shichao Xu\*, **Lixu Wang**\*, Yixuan Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision, **ICCV 2021**
 - _**Addressing Class Imbalance in Federated Learning**_
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
@@ -97,7 +97,7 @@ I aim to create socially responsible machine learning (ML) models, i.e., ML mode
   - Junfeng Guo, Yiming Li, **Lixu Wang**, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li
   - 37th Conference on Neural Information Processing Systems, **NeurIPS 2023**
 - _**mID: Tracing Screen Photos via Moire Patterns**_
-  - Yushi Cheng, Xiaoyu Ji, **Lixu Wang***, Qi Pang*, Yi-Chao Chen, Wenyuan Xu
+  - Yushi Cheng, Xiaoyu Ji, **Lixu Wang**\*, Qi Pang\*, Yi-Chao Chen, Wenyuan Xu
   - USENIX Security Symposium, **Usenix Security 2021**
 
 ### Peer-reviewed Journals
