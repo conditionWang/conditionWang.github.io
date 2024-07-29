@@ -57,16 +57,22 @@ This is Lixu Wang. I am a Ph.D. candidate in Computer Science at Northwestern Un
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023 - 2024*: IBM Ph.D. Fellowship
+- *2020*: Outstanding Undergraduate Dissertation Award (ZJU)
+- *2020*: Computer Science Ph.D. Fellowship (NU)
+- *2020*: Outstanding Graduate of Zhejiang (Zhejiang Provincial Government)
+- *2019*: _Wang Guosong_ Outstanding Scholarship (ZJU highest honor in EECS)
+- *2018*: _1st Prize_, Chinese Mathematical Contest in Modeling, top 0.3%
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.01 - Present*, Northwestern University (NU), Ph.D. in Computer Science, GPA: 4.0/4.0
+- *2016.09 - 2020.07*, Zhejiang University (ZJU), B.E. in Electrical and Computer Engineering, GPA: 3.96/4.0
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.07*, Contrastive Learning for Time-Series Anomaly Detection, General Motors invited talks. 
+- *2022.06*, Machine Learning with Constraints from Generalization, ZJU invited talks, Hangzhou.
+- *2022.05*, Non-Transferable Learning for Model IP Protection, Sony AI Journal Club.
+- *2022.03*, Federated Class-Incremental Learning, SSFAI Academic Invited Talks.
 
-# 💻 Internships
+# 💻 Services
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
