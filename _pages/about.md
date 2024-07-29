@@ -120,8 +120,8 @@ I aim to create socially responsible machine learning (ML) models, i.e., ML mode
 - *2018*: _1st Prize_, Chinese Mathematical Contest in Modeling, top 0.3%
 
 # 📖 Educations
-- *2021.01 - Present*, Northwestern University (NU), Ph.D. in Computer Science, GPA: 4.0/4.0
-- *2016.09 - 2020.07*, Zhejiang University (ZJU), B.E. in Electrical and Computer Engineering, GPA: 3.96/4.0
+- *2021.01 - Present*, Northwestern University, Ph.D. in Computer Science, GPA: 4.0/4.0
+- *2016.09 - 2020.07*, Zhejiang University, B.E. in Electrical and Computer Engineering, GPA: 3.96/4.0
 
 # 💬 Invited Talks
 - *2022.07*, Contrastive Learning for Time-Series Anomaly Detection, General Motors invited talks. 
