@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Lixu Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Lixu Wang's Homepage"
+repository               : "conditionWang/conditionWang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,11 +24,11 @@ author:
   name             : "Lixu Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D. Candidate at Northwestern University"
-  location         : "Beijing, China"
+  location         : "L476, Technological Institute, 2145 Sheridan Road, Evanston, IL, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=xuSbmssAAAAJ&hl=en&oi=sra"
+  email            : "lixuwang2025@u.northwestern.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/conditionWang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  LinkedIn         : "https://www.linkedin.com/in/lixu-wang-60298118a/?locale=en_US"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
