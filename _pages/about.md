@@ -24,7 +24,21 @@ This is Lixu Wang. I am a Ph.D. candidate in Computer Science at Northwestern Un
 - *2024.07*: &nbsp; A paper about LLM Security has been submitted to NDSS 2025.
 - *2024.05*: &nbsp; Papers about Time Series, Image Retrieval, and LLM Security have been submitted to NeurIPS 2024.
 - *2024.03*: &nbsp; Help to submit one NSF proposal with CISPA.
-- *2023.12*: &nbsp; Our paper about anomaly detection has been accepted by ICASSP 2024.
+- *2023.12*: &nbsp; 🎉Our paper about anomaly detection has been accepted by **ICASSP 2024**.
+- *2023.09*: &nbsp; 🎉Our paper about data IP has been accepted by **NeurIPS 2023**.
+- *2023.08*: &nbsp; 🎉Super excited to be an **IBM PhD Fellowship** recipient.
+- *2023.07*: &nbsp; 🎉Our paper about backdoor detection has been accepted by **ICCV 2023**.
+- *2023.04*: &nbsp; 🎉Help submit two **NSF proposals** accepted later.
+- *2023.01*: &nbsp; 🎉Our paper about domain generalization has been accepted by **ICLR 2023**.
+- *2022.11*: &nbsp; Become a visiting research scientist at General Motors.
+- *2022.03*: &nbsp; 🎉Our paper about incremental learning is accepted by **CVPR 2022**.
+- *2022.02*: &nbsp; 🎉Our paper about incremental learning is accepted by **TNNLS 2021**.
+- *2022.01*: &nbsp; 🎉Our paper about model IP is accepted by **ICLR 2022** as an **oral** presentation.
+- *2021.07*: &nbsp; 🎉Our paper about domain adaptation is accepted by **ICCV 2021**.
+- *2021.03*: &nbsp; 🎉Our paper about digital watermarks is accepted by **USENIX Security 2021**.
+- *2020.12*: &nbsp; 🎉Our paper about federated learning is accepted by **AAAI 2021**.
+- *2020.07*: &nbsp; 🎉Received **Outstanding Undergraduate Dissertation** Award of ZJU.
+
 
 # 📝 Publications 
 
