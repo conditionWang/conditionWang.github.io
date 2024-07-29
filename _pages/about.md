@@ -46,7 +46,7 @@ I aim to create socially responsible machine learning (ML) models, i.e., ML mode
 # 📝 Publications 
 \* denotes equal contribution, \*\* denotes alphabetical order, # denotes corresponding authors
 
-### Preprint
+## Preprint
 - _**Practical Unlearning for Large Language Models**_
   - Chongyang Gao\*\*, **Lixu Wang**\*\* #, Chenkai Weng, Xiao Wang, Qi Zhu
   - Arxiv 2024
@@ -70,7 +70,7 @@ I aim to create socially responsible machine learning (ML) models, i.e., ML mode
   - Arxiv 2019
 
  
-### Peer-reviewed Conferences
+## Peer-reviewed Conferences
 
 - _**Deja Vu: Continual Model Generalization for Unseen Domains**_
   - Chenxi Liu\*\*, **Lixu Wang**\*\* #, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
@@ -100,9 +100,9 @@ I aim to create socially responsible machine learning (ML) models, i.e., ML mode
   - Yushi Cheng, Xiaoyu Ji, **Lixu Wang**\*, Qi Pang\*, Yi-Chao Chen, Wenyuan Xu
   - USENIX Security Symposium, **Usenix Security 2021**
 
-### Peer-reviewed Journals
+## Peer-reviewed Journals
 
-- _**A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions**_
+- _**A Survey of Federated Unlearning: A Taxonomy, Challenges, and Future Directions**_
   - Jiaxi Yang, Yang Zhao, Yiling Tao, **Lixu Wang**, Xiaoxiao Li, Dusit Niyato
   - IEEE **Signal Magazine 2024**
 - _**Incremental 3D Object Recognition for Point Cloud Representation**_
@@ -131,4 +131,4 @@ I aim to create socially responsible machine learning (ML) models, i.e., ML mode
 
 # 💻 Services
 - *Reviewer/Program Committee*: CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, MM, WACV, TNNLS, TCSVT, etc.
-- *Advising*: Ruiqi Xu (B.S. NU &rarr; Ph.D. Uchicago), Xiangyu Shi (B.E. ZJU &rarr; Ph.D. NU); Chenxi Liu (M.S. NU &rarr; Ph.D. UMaryland Park), Jinjin Cai (M.S. NU &rarr; Ph.D. Purdue), Yufei Wang (M.S. NU &rarr; Ph.D. Northeastern), Shiyuan Duan (M.S. NU), Yueyuan Sui (M.S. NU &rarr; Ph.D. NU), Bingqi Shang (M.S. NU).
+- *Advising*: Ruiqi Xu (B.S. NU &rarr; Ph.D. Uchicago), Xiangyu Shi (B.E. ZJU &rarr; Ph.D. NU); Chenxi Liu (M.S. NU &rarr; Ph.D. UMaryland Park), Jinjin Cai (M.S. NU &rarr; Ph.D. Purdue), Yufei Wang (M.S. NU &rarr; Ph.D. Northeastern), Shiyuan Duan (M.S. NU), Bingqi Shang (M.S. NU).
