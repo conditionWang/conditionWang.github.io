@@ -19,6 +19,9 @@ redirect_from:
 
 This is Lixu Wang. I am a Ph.D. candidate in Computer Science at Northwestern University (NU) starting in Spring 2021, advised by Prof. Qi Zhu and Prof. Xiao Wang, and partially supported by IBM PhD Fellowship. Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of Prof. Wenyuan Xu.  I am open to all kinds of collaboration, please drop me an email if you are interested in my research. I am currently visiting Rice University and working with Prof. Xia Ben Hu.
 
+I aim to create socially responsible machine learning (ML) models, i.e., ML models that can protect the privacy of their training data and minimize the chance of being misused. In particular, to ensure privacy protection, those models must be resistant to various privacy attacks. To prevent harmful social impacts from the misuse of ML models, their generalization ability on unintentional data domains and tasks must be reduced. To achieve these goals, I have been developing novel ML models and tools with a diverse set of techniques in Optimization Theory, Information Theory, and Cryptography. Greater ability comes with greater responsibility, and this applies equally to ML technology. ML models with social responsibility can protect data privacy and prevent serious consequences caused by the harmful use of models, such as teenagers obtaining violent information from recommendation systems or criminals using ML models to engage in criminal activities.
+
+
 
 # 🔥 News
 - *2024.07*: &nbsp; A paper about LLM Security has been submitted to NDSS 2025.
