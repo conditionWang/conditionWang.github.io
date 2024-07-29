@@ -41,20 +41,72 @@ This is Lixu Wang. I am a Ph.D. candidate in Computer Science at Northwestern Un
 
 
 # 📝 Publications 
+*denotes equal contribution, ** denotes alphabetical order, # denotes corresponding authors
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Preprint
+- _**Practical Unlearning for Large Language Models**_
+  - Chongyang Gao**, **Lixu Wang**** #, Chenkai Weng, Xiao Wang, Qi Zhu
+  - Arxiv 2024
+- _**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_
+  - **Lixu Wang**, Xinyu Du, Qi Zhu
+  - Arxiv 2024
+- **_Phase-driven Generalization for Nonstationary Time Series_**
+  - Payal Mohapatra*, **Lixu Wang***, Qi Zhu
+  - Arxiv 2024
+- **_Federated Learning with New Knowledge: Fundamentals, Advances, and Futures_**
+  - **Lixu Wang**, Yang Zhao, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
+  - Arxiv 2024
+- **_Federated Continual Novel Class Learning_**
+  - **Lixu Wang***, Chenxi Liu*, Junfeng Guo, Xiao Wang, Heng Huang, Qi Zhu
+  - Arxiv 2023
+- **_Exploring Backdoor Attacks against Large Language Model-based Decision Making_**
+  - Ruochen Jiao, Shaoyuan Xie, Justin Yue, Takami Sato, **Lixu Wang**, Yixuan Wang, Qi Alfred Chen, Qi Zhu
+  - Arxiv 2024
+- _**Eavesdrop the Composition Proportion of Training Labels in Federated Learning**_
+  - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
+  - Arxiv 2019
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+ 
+### Peer-reviewed Conferences
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- _**Deja Vu: Continual Model Generalization for Unseen Domains**_
+  - Chenxi Liu**, **Lixu Wang**** #, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
+  - International Conference on Learning Representation, **ICLR 2023**
+- _**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**_
+  - **Lixu Wang**, Shichao Xu, Xinyu Du, Qi Zhu
+  - International Conference on Acoustics, Speech, and Signal Processing, **ICASSP 2024**
+- _**Federated Class-Incremental Learning**_
+  - Jiahua Dong**, **Lixu Wang****, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2022**
+- _**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_
+  - **Lixu Wang***, Shichao Xu*, Ruiqi Xu, Xiao Wang, Qi Zhu
+  - International Conference on Learning Representation, **ICLR 2022 Oral**
+- _**Weak Adaptation Learning: Addressing Cross-domain Data Insufficiency with Weak Annotator**_
+  - Shichao Xu*, **Lixu Wang***, Yixuan Wang, Qi Zhu
+  - IEEE/CVF Conference on Computer Vision, **ICCV 2021**
+- _**Addressing Class Imbalance in Federated Learning**_
+  - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
+  - AAAI Conference on Artificial Intelligence, AAAI 2021
+- _**PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning**_
+  - Junfeng Guo, Ang Li, **Lixu Wang**, Cong Liu
+  - IEEE/CVF Conference on Computer Vision, **ICCV 2023**
+- _**Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand**_
+  - Junfeng Guo, Yiming Li, **Lixu Wang**, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li
+  - 37th Conference on Neural Information Processing Systems, **NeurIPS 2023**
+- _**mID: Tracing Screen Photos via Moire Patterns**_
+  - Yushi Cheng, Xiaoyu Ji, **Lixu Wang***, Qi Pang*, Yi-Chao Chen, Wenyuan Xu
+  - USENIX Security Symposium, **Usenix Security 2021**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+### Peer-reviewed Journals
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- _**A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions**_
+  - Jiaxi Yang, Yang Zhao, Yiling Tao, **Lixu Wang**, Xiaoxiao Li, Dusit Niyato
+  - IEEE **Signal Magazine 2024**
+- _**Incremental 3D Object Recognition for Point Cloud Representation**_
+  - Jiahua Dong, Gan Sun, **Lixu Wang**, Jun Li, Lingjuan Lyu, Konukoglu Ender
+  - IEEE Transaction on Neural Networks and Learning Systems, **TNNLS 2021**
+
+
 
 # 🎖 Honors and Awards
 - *2023 - 2024*: IBM Ph.D. Fellowship
@@ -75,4 +127,5 @@ This is Lixu Wang. I am a Ph.D. candidate in Computer Science at Northwestern Un
 - *2022.03*, Federated Class-Incremental Learning, SSFAI Academic Invited Talks.
 
 # 💻 Services
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Reviewer/Program Committee*: CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, MM, WACV, TNNLS, TCSVT, etc.
+- *Advising*: Ruiqi Xu (B.S. NU &rarr; Ph.D. Uchicago), Xiangyu Shi (B.E. ZJU &rarr; Ph.D. NU); Chenxi Liu (M.S. NU &rarr; Ph.D. UMaryland Park), Jinjin Cai (M.S. NU &rarr; Ph.D. Purdue), Yufei Wang (M.S. NU &rarr; Ph.D. Northeastern), Shiyuan Duan (M.S. NU), Yueyuan Sui (M.S. NU &rarr; Ph.D. NU), Bingqi Shang (M.S. NU).
