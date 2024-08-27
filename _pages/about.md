@@ -57,10 +57,10 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
   - Arxiv 2024
 - **_Federated Learning with New Knowledge: Fundamentals, Advances, and Futures_**
-  - **Lixu Wang**, Yang Zhao, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
+  - **Lixu Wang**, Yang Zhao, Jiahua Dong, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
   - Arxiv 2024
 - **_Federated Continual Novel Class Learning_**
-  - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Xiao Wang, Heng Huang, Qi Zhu
+  - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu
   - Arxiv 2023
 - **_Exploring Backdoor Attacks against Large Language Model-based Decision Making_**
   - Ruochen Jiao, Shaoyuan Xie, Justin Yue, Takami Sato, **Lixu Wang**, Yixuan Wang, Qi Alfred Chen, Qi Zhu
