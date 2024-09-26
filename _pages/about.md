@@ -24,6 +24,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 
 
 # 🔥 News
+- *2024.09*: &nbsp; A paper about Image Retrieval has been accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp; A paper about LLM Security has been submitted to NDSS 2025.
 - *2024.05*: &nbsp; Papers about Time Series, Image Retrieval, and LLM Security have been submitted to NeurIPS 2024.
 - *2024.03*: &nbsp; Help to submit one NSF proposal with CISPA.
@@ -50,9 +51,6 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 - _**Practical Unlearning for Large Language Models**_
   - Chongyang Gao\*\*, **Lixu Wang**\*\* #, Chenkai Weng, Xiao Wang, Qi Zhu
   - Arxiv 2024
-- _**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_
-  - **Lixu Wang**, Xinyu Du, Qi Zhu
-  - Arxiv 2024
 - **_Phase-driven Generalization for Nonstationary Time Series_**
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
   - Arxiv 2024
@@ -72,6 +70,9 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
  
 ## Peer-reviewed Conferences
 
+- _**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_
+  - **Lixu Wang**, Xinyu Du, Qi Zhu
+  - 38th Conference on Neural Information Processing Systems, **NeurIPS 2024**
 - _**Deja Vu: Continual Model Generalization for Unseen Domains**_
   - Chenxi Liu\*\*, **Lixu Wang**\*\* #, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2023**
