@@ -90,7 +90,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
   - IEEE/CVF Conference on Computer Vision, **ICCV 2021**
 - _**Addressing Class Imbalance in Federated Learning**_
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
-  - AAAI Conference on Artificial Intelligence, AAAI 2021
+  - AAAI Conference on Artificial Intelligence, **AAAI 2021**
 - _**PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning**_
   - Junfeng Guo, Ang Li, **Lixu Wang**, Cong Liu
   - IEEE/CVF Conference on Computer Vision, **ICCV 2023**
@@ -108,7 +108,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
   - IEEE **Signal Magazine 2024**
 - _**Incremental 3D Object Recognition for Point Cloud Representation**_
   - Jiahua Dong, Gan Sun, **Lixu Wang**, Jun Li, Lingjuan Lyu, Konukoglu Ender
-  - IEEE Transaction on Neural Networks and Learning Systems, **TNNLS 2021**
+  - IEEE Transaction on Neural Networks and Learning Systems, **TNNLS 2022**
 
 
 
