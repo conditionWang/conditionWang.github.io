@@ -54,6 +54,9 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 - **_Phase-driven Generalization for Nonstationary Time Series_**
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
   - Arxiv 2024
+- **_Federated Continual Novel Class Learning_**
+  - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu
+  - European Conference on Computer Vision, ECCV 2024 under review
 - **_Federated Learning with New Knowledge: Fundamentals, Advances, and Futures_**
   - **Lixu Wang**, Yang Zhao, Jiahua Dong, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
   - Arxiv 2024
@@ -70,9 +73,6 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 - _**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_
   - **Lixu Wang**, Xinyu Du, Qi Zhu
   - 38th Conference on Neural Information Processing Systems, **NeurIPS 2024**
-- **_Federated Continual Novel Class Learning_**
-  - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu
-  - European Conference on Computer Vision **ECCV 2024**
 - _**Deja Vu: Continual Model Generalization for Unseen Domains**_
   - Chenxi Liu\*\*, **Lixu Wang**\*\* #, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2023**
