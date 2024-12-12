@@ -24,9 +24,9 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 
 
 # 🔥 News
+- *2024.11*: &nbsp; Papers about foundation models and federated learning have been submitted to CVPR 2025.
+- *2024.10*: &nbsp; Papers about Time Series and LLM Security have been submitted to ICLR 2025.
 - *2024.09*: &nbsp; 🎉Our paper about Image Retrieval has been accepted by **NeurIPS 2024**.
-- *2024.07*: &nbsp; A paper about LLM Security has been submitted to NDSS 2025.
-- *2024.05*: &nbsp; Papers about Time Series, Image Retrieval, and LLM Security have been submitted to NeurIPS 2024.
 - *2024.03*: &nbsp; Help to submit one NSF proposal with CISPA.
 - *2023.12*: &nbsp; 🎉Our paper about anomaly detection has been accepted by **ICASSP 2024**.
 - *2023.09*: &nbsp; 🎉Our paper about data IP has been accepted by **NeurIPS 2023**.
@@ -131,5 +131,5 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 - *2022.03*, Federated Class-Incremental Learning, SSFAI Academic Invited Talks.
 
 # 💻 Services
-- *Reviewer/Program Committee*: CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, MM, WACV, TNNLS, TCSVT, etc.
+- *Reviewer/Program Committee*: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, MM, WACV, TNNLS, TCSVT, etc.
 - *Advising*: Ruiqi Xu (B.S. NU &rarr; Ph.D. Uchicago), Xiangyu Shi (B.E. ZJU &rarr; Ph.D. NU); Chenxi Liu (M.S. NU &rarr; Ph.D. UMaryland Park), Jinjin Cai (M.S. NU &rarr; Ph.D. Purdue), Yufei Wang (M.S. NU &rarr; Ph.D. Northeastern), Shiyuan Duan (M.S. NU), Bingqi Shang (M.S. NU).
