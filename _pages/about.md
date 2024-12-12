@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Lixu Wang. I am a Ph.D. candidate in Computer Science at Northwestern University (NU) starting in Spring 2021, advised by Prof. Qi Zhu and Prof. Xiao Wang, and partially supported by IBM PhD Fellowship. Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of Prof. Wenyuan Xu. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
+This is Lixu Wang. I am a Ph.D. candidate in Computer Science at Northwestern University (NU) starting in Spring 2021, advised by [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en) and [Prof. Xiao Wang](https://wangxiao1254.github.io/), and partially supported by [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
 
 I aim to contribute to Data-Centric Responsible AI, where my current interest is to achieve Controllable Customization for Large Models. In this topic, I focus on the content and user control of large foundation models, i.e., 1) what content should be included in models; 2) what content should be excluded from models; and 3) who should be authorized to use the models. Solving these problems benefits major facets of responsible AI, like ensuring data and model privacy protection, enhancing model reliability and accountability, aligning for benign purposes, and preventing harmful misuse. To achieve these goals, I have been developing novel techniques and approaches related to Federated Learning, Out-Source Training, Machine Unlearning, and Generalization Restriction with a diverse set of knowledge in Optimization Theory, Information Theory, and Cryptography.
 
@@ -48,72 +48,72 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 \* denotes equal contribution, \*\* denotes alphabetical order, # denotes corresponding authors
 
 ## Preprint
-- _**Practical Unlearning for Large Language Models**_
+- [_**Practical Unlearning for Large Language Models**_](https://arxiv.org/abs/2407.10223)
   - Chongyang Gao\*\*, **Lixu Wang**\*\* #, Chenkai Weng, Xiao Wang, Qi Zhu
   - Arxiv 2024
-- **_Phase-driven Generalization for Nonstationary Time Series_**
+- [**_Phase-driven Generalization for Nonstationary Time Series_**](https://arxiv.org/abs/2402.05960)
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
   - Arxiv 2024
-- **_Federated Continual Novel Class Learning_**
+- [**_Federated Continual Novel Class Learning_**](https://arxiv.org/abs/2312.13500)
   - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu
   - Arxiv 2023
-- **_Federated Learning with New Knowledge: Fundamentals, Advances, and Futures_**
+- [**_Federated Learning with New Knowledge: Fundamentals, Advances, and Futures_**](https://arxiv.org/abs/2402.02268)
   - **Lixu Wang**, Yang Zhao, Jiahua Dong, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
   - Arxiv 2024
-- **_Exploring Backdoor Attacks against Large Language Model-based Decision Making_**
+- [**_Exploring Backdoor Attacks against Large Language Model-based Decision Making_**](https://arxiv.org/abs/2405.20774)
   - Ruochen Jiao, Shaoyuan Xie, Justin Yue, Takami Sato, **Lixu Wang**, Yixuan Wang, Qi Alfred Chen, Qi Zhu
   - Arxiv 2024
-- _**Eavesdrop the Composition Proportion of Training Labels in Federated Learning**_
+- [_**Eavesdrop the Composition Proportion of Training Labels in Federated Learning**_](https://arxiv.org/abs/1910.06044)
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
   - Arxiv 2019
 
  
 ## Peer-reviewed Conferences
 
-- _**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_
+- [_**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_](https://arxiv.org/abs/2403.05690)
   - **Lixu Wang**, Xinyu Du, Qi Zhu
   - 38th Conference on Neural Information Processing Systems, **NeurIPS 2024**
-- _**Deja Vu: Continual Model Generalization for Unseen Domains**_
+- [_**Deja Vu: Continual Model Generalization for Unseen Domains**_](https://openreview.net/forum?id=L8iZdgeKmI6)
   - Chenxi Liu\*\*, **Lixu Wang**\*\* #, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2023**
-- _**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**_
+- [_**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**_](https://ieeexplore.ieee.org/abstract/document/10447891/)
   - **Lixu Wang**, Shichao Xu, Xinyu Du, Qi Zhu
   - International Conference on Acoustics, Speech, and Signal Processing, **ICASSP 2024**
-- _**Federated Class-Incremental Learning**_
+- [_**Federated Class-Incremental Learning**_](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
   - Jiahua Dong\*\*, **Lixu Wang**\*\*, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2022**
-- _**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_
+- [_**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_](https://openreview.net/forum?id=tYRrOdSnVUy)
   - **Lixu Wang**\*, Shichao Xu\*, Ruiqi Xu, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2022 Oral**
-- _**Weak Adaptation Learning: Addressing Cross-domain Data Insufficiency with Weak Annotator**_
+- [_**Weak Adaptation Learning: Addressing Cross-domain Data Insufficiency with Weak Annotator**_](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Weak_Adaptation_Learning_Addressing_Cross-Domain_Data_Insufficiency_With_Weak_Annotator_ICCV_2021_paper.html)
   - Shichao Xu\*, **Lixu Wang**\*, Yixuan Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision, **ICCV 2021**
-- _**Addressing Class Imbalance in Federated Learning**_
+- [_**Addressing Class Imbalance in Federated Learning**_](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
   - AAAI Conference on Artificial Intelligence, **AAAI 2021**
-- _**PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning**_
+- [_**PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning**_](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_PolicyCleanse_Backdoor_Detection_and_Mitigation_for_Competitive_Reinforcement_Learning_ICCV_2023_paper.html)
   - Junfeng Guo, Ang Li, **Lixu Wang**, Cong Liu
   - IEEE/CVF Conference on Computer Vision, **ICCV 2023**
-- _**Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand**_
+- [_**Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand**_](https://proceedings.neurips.cc/paper_files/paper/2023/hash/aa6287ca31ae1474ea802342d0c8ba63-Abstract-Conference.html)
   - Junfeng Guo, Yiming Li, **Lixu Wang**, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li
   - 37th Conference on Neural Information Processing Systems, **NeurIPS 2023**
-- _**mID: Tracing Screen Photos via Moire Patterns**_
+- [_**mID: Tracing Screen Photos via Moire Patterns**_](https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-yushi)
   - Yushi Cheng, Xiaoyu Ji, **Lixu Wang**\*, Qi Pang\*, Yi-Chao Chen, Wenyuan Xu
   - USENIX Security Symposium, **Usenix Security 2021**
 
 ## Peer-reviewed Journals
 
-- _**A Survey of Federated Unlearning: A Taxonomy, Challenges, and Future Directions**_
+- [_**A Survey of Federated Unlearning: A Taxonomy, Challenges, and Future Directions**_](https://arxiv.org/abs/2310.19218)
   - Jiaxi Yang, Yang Zhao, Yiling Tao, **Lixu Wang**, Xiaoxiao Li, Dusit Niyato
   - IEEE **Signal Magazine 2024**
-- _**Incremental 3D Object Recognition for Point Cloud Representation**_
+- [_**Incremental 3D Object Recognition for Point Cloud Representation**_](https://ieeexplore.ieee.org/abstract/document/10054469)
   - Jiahua Dong, Gan Sun, **Lixu Wang**, Jun Li, Lingjuan Lyu, Konukoglu Ender
   - IEEE Transaction on Neural Networks and Learning Systems, **TNNLS 2022**
 
 
 
 # 🎖 Honors and Awards
-- *2023 - 2024*: IBM Ph.D. Fellowship
+- *2023 - 2024*: [IBM Ph.D. Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html)
 - *2020*: Outstanding Undergraduate Dissertation Award (ZJU)
 - *2020*: Computer Science Ph.D. Fellowship (NU)
 - *2020*: Outstanding Graduate of Zhejiang (Zhejiang Provincial Government)
