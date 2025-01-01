@@ -26,7 +26,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 # 🔥 News
 - *2025.01*: &nbsp; Papers about multimodal LLM privacy and CoT will be submitted to Usenix Security 2025 and ICML 2025.
 - *2024.12*: &nbsp; One paper about object detection in edge computing has been submitted to TMC.
-- *2024.11*: &nbsp; Papers about foundation models and federated learning have been submitted to CVPR 2025.
+- *2024.11*: &nbsp; Papers about foundation models and VLM in FL have been submitted to CVPR 2025.
 - *2024.10*: &nbsp; Papers about Time Series and LLM Security have been submitted to ICLR 2025.
 - *2024.09*: &nbsp; 🎉Our paper about Image Retrieval has been accepted by **NeurIPS 2024**.
 - *2024.03*: &nbsp; Help to submit one NSF proposal with CISPA.
