@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Lixu Wang. I am a Ph.D. candidate in Computer Science at Northwestern University (NU) starting in Spring 2021, advised by [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en) and [Prof. Xiao Wang](https://wangxiao1254.github.io/), and partially supported by [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
+This is Lixu Wang. I am a Ph.D. candidate in Computer Science at Northwestern University (NU) starting in Spring 2021, advised by [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en) and [Prof. Xiao Wang](https://wangxiao1254.github.io/), and partially supported by [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please email me if you are interested in my research.
 
 I aim to contribute to Data-Centric Responsible AI, where my current interest is to achieve Controllable Customization for Large Models. In this topic, I focus on the content and user control of large foundation models, i.e., 1) what content should be included in models; 2) what content should be excluded from models; and 3) who should be authorized to use the models. Solving these problems benefits major facets of responsible AI, like ensuring data and model privacy protection, enhancing model reliability and accountability, aligning for benign purposes, and preventing harmful misuse. To achieve these goals, I have been developing novel techniques and approaches related to Federated Learning, Out-Source Training, Machine Unlearning, and Generalization Restriction with a diverse set of knowledge in Optimization Theory, Information Theory, and Cryptography.
 
 
 
 # 🔥 News
+- *2025.01*: &nbsp; Papers about multimodal LLM privacy and CoT will be submitted to Usenix Security 2025 and ICML 2025.
+- *2024.12*: &nbsp; One paper about object detection in edge computing has been submitted to TMC.
 - *2024.11*: &nbsp; Papers about foundation models and federated learning have been submitted to CVPR 2025.
 - *2024.10*: &nbsp; Papers about Time Series and LLM Security have been submitted to ICLR 2025.
 - *2024.09*: &nbsp; 🎉Our paper about Image Retrieval has been accepted by **NeurIPS 2024**.
@@ -105,7 +107,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 
 - [_**A Survey of Federated Unlearning: A Taxonomy, Challenges, and Future Directions**_](https://arxiv.org/abs/2310.19218)
   - Jiaxi Yang, Yang Zhao, Yiling Tao, **Lixu Wang**, Xiaoxiao Li, Dusit Niyato
-  - IEEE **Signal Magazine 2024**
+  - IEEE **Network Magazine 2024**
 - [_**Incremental 3D Object Recognition for Point Cloud Representation**_](https://ieeexplore.ieee.org/abstract/document/10054469)
   - Jiahua Dong, Gan Sun, **Lixu Wang**, Jun Li, Lingjuan Lyu, Konukoglu Ender
   - IEEE Transaction on Neural Networks and Learning Systems, **TNNLS 2022**
