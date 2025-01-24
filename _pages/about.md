@@ -24,10 +24,10 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 
 
 # 🔥 News
-- *2025.01*: &nbsp; Papers about multimodal LLM privacy and CoT will be submitted to Usenix Security 2025 and ICML 2025.
+- *2025.01*: &nbsp; 🎉Our papers about LLM unlearning and backdoor attacks have been accepted by **ICLR 2025**.
+- *2025.01*: &nbsp; Papers about multimodal LLM privacy and CoT have been submitted to Usenix Security 2025 and ICML 2025.
 - *2024.12*: &nbsp; One paper about object detection in edge computing has been submitted to TMC.
 - *2024.11*: &nbsp; Papers about foundation models and VLM in FL have been submitted to CVPR 2025.
-- *2024.10*: &nbsp; Papers about Time Series and LLM Security have been submitted to ICLR 2025.
 - *2024.09*: &nbsp; 🎉Our paper about Image Retrieval has been accepted by **NeurIPS 2024**.
 - *2024.03*: &nbsp; Help to submit one NSF proposal with CISPA.
 - *2023.12*: &nbsp; 🎉Our paper about anomaly detection has been accepted by **ICASSP 2024**.
@@ -50,28 +50,24 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 \* denotes equal contribution, \*\* denotes alphabetical order, # denotes corresponding authors
 
 ## Preprint
-- [_**Practical Unlearning for Large Language Models**_](https://arxiv.org/abs/2407.10223)
-  - Chongyang Gao\*\*, **Lixu Wang**\*\* #, Chenkai Weng, Xiao Wang, Qi Zhu
-  - Arxiv 2024
-- [**_Phase-driven Generalization for Nonstationary Time Series_**](https://arxiv.org/abs/2402.05960)
+- [**Phase-driven Generalization for Nonstationary Time Series**](https://arxiv.org/abs/2402.05960)
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
   - Arxiv 2024
-- [**_Federated Continual Novel Class Learning_**](https://arxiv.org/abs/2312.13500)
+- [**Federated Continual Novel Class Learning**](https://arxiv.org/abs/2312.13500)
   - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu
   - Arxiv 2023
-- [**_Federated Learning with New Knowledge: Fundamentals, Advances, and Futures_**](https://arxiv.org/abs/2402.02268)
+- [**Federated Learning with New Knowledge: Fundamentals, Advances, and Futures**](https://arxiv.org/abs/2402.02268)
   - **Lixu Wang**, Yang Zhao, Jiahua Dong, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
   - Arxiv 2024
-- [**_Exploring Backdoor Attacks against Large Language Model-based Decision Making_**](https://arxiv.org/abs/2405.20774)
-  - Ruochen Jiao, Shaoyuan Xie, Justin Yue, Takami Sato, **Lixu Wang**, Yixuan Wang, Qi Alfred Chen, Qi Zhu
-  - Arxiv 2024
-- [_**Eavesdrop the Composition Proportion of Training Labels in Federated Learning**_](https://arxiv.org/abs/1910.06044)
+- [**Eavesdrop the Composition Proportion of Training Labels in Federated Learning**](https://arxiv.org/abs/1910.06044)
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
   - Arxiv 2019
 
  
 ## Peer-reviewed Conferences
-
+- [_**On Large Language Model Continual Unlearning**_](https://arxiv.org/abs/2407.10223)
+  - Chongyang Gao\*\*, **Lixu Wang**\*\* #, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
+  - International Conference on Learning Representation, **ICLR 2025**
 - [_**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_](https://arxiv.org/abs/2403.05690)
   - **Lixu Wang**, Xinyu Du, Qi Zhu
   - 38th Conference on Neural Information Processing Systems, **NeurIPS 2024**
@@ -93,6 +89,9 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 - [_**Addressing Class Imbalance in Federated Learning**_](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
   - AAAI Conference on Artificial Intelligence, **AAAI 2021**
+- [**Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems**](https://arxiv.org/abs/2405.20774)
+  - Ruochen Jiao, Shaoyuan Xie, Justin Yue, Takami Sato, **Lixu Wang**, Yixuan Wang, Qi Alfred Chen, Qi Zhu
+  - International Conference on Learning Representation, **ICLR 2025**
 - [_**PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning**_](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_PolicyCleanse_Backdoor_Detection_and_Mitigation_for_Competitive_Reinforcement_Learning_ICCV_2023_paper.html)
   - Junfeng Guo, Ang Li, **Lixu Wang**, Cong Liu
   - IEEE/CVF Conference on Computer Vision, **ICCV 2023**
