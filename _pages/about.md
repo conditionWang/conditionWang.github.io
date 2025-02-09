@@ -49,7 +49,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 
 
 # 📝 Publications 
-\* denotes equal contribution, \*\* denotes alphabetical order, # denotes corresponding authors
+\* denotes equal contribution, # denotes corresponding authors
 
 ## Preprint
 - [**Phase-driven Generalization for Nonstationary Time Series**](https://arxiv.org/abs/2402.05960)
