@@ -19,13 +19,15 @@ redirect_from:
 
 This is Lixu Wang. I am now visiting Nanyang Technological University (NTU) and working with [Prof. Wei Dong](https://weidong.hk/) and [Prof. Xiaofeng Wang](https://homes.luddy.indiana.edu/xw7/) from Indiana University. I received my Ph.D. in Computer Science at Northwestern University (NU) in Jan 2025, advised by [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en) and [Prof. Xiao Wang](https://wangxiao1254.github.io/), and partially supported by [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please email me if you are interested in my research.
 
-I aim to contribute to Data-Centric Responsible AI, where my current interest is to achieve Controllable Customization for Large Models. In this topic, I focus on the content and user control of large foundation models, i.e., 1) what content should be included in models; 2) what content should be excluded from models; and 3) who should be authorized to use the models. Solving these problems benefits major facets of responsible AI, like ensuring data and model privacy protection, enhancing model reliability and accountability, aligning for benign purposes, and preventing harmful misuse. To achieve these goals, I have been developing novel techniques and approaches related to Federated Learning, Out-Source Training, Machine Unlearning, and Generalization Restriction with a diverse set of knowledge in Optimization Theory, Information Theory, and Cryptography.
+I aim to contribute to Data-Centric Responsible AI, where my current interest is to achieve Controllable Customization for Large Models. In this topic, I focus on the content and user control of large foundation models, i.e., 1) what content should be included in models; 2) what content should be excluded from models; and 3) who should be authorized to use the models. Solving these problems benefits major facets of responsible AI, like ensuring data and model privacy protection, enhancing model reliability and accountability, aligning for benign purposes, and preventing harmful misuse. To achieve these goals, I have been developing novel techniques and approaches related to Federated Learning, Out-Source Training, Machine Unlearning, Generalization Restriction, and Multi-Party Computation with a diverse set of knowledge in Optimization Theory, Information Theory, and Cryptography.
 
 
 
 # 🔥 News
+- *2025.02*: &nbsp; Papers about text-to-speech and CoT have been submitted to ACL 2025.
+- *2025.01*: &nbsp; One paper about time-series analysis has been submitted to TMLR 2025.
 - *2025.01*: &nbsp; 🎉Our papers about LLM unlearning and backdoor attacks have been accepted by **ICLR 2025**.
-- *2025.01*: &nbsp; Papers about multimodal LLM privacy and CoT have been submitted to Usenix Security 2025 and ICML 2025.
+- *2025.01*: &nbsp; Papers about multimodal LLM privacy and FL have been submitted to Usenix Security 2025 and ICML 2025.
 - *2024.12*: &nbsp; One paper about object detection in edge computing has been submitted to TMC.
 - *2024.11*: &nbsp; Papers about foundation models and VLM in FL have been submitted to CVPR 2025.
 - *2024.09*: &nbsp; 🎉Our paper about Image Retrieval has been accepted by **NeurIPS 2024**.
@@ -66,19 +68,19 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
  
 ## Peer-reviewed Conferences
 - [_**On Large Language Model Continual Unlearning**_](https://arxiv.org/abs/2407.10223)
-  - Chongyang Gao\*\*, **Lixu Wang**\*\* #, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
+  - **Lixu Wang**\* #, Chongyang Gao\*, , Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2025**
 - [_**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_](https://arxiv.org/abs/2403.05690)
   - **Lixu Wang**, Xinyu Du, Qi Zhu
   - 38th Conference on Neural Information Processing Systems, **NeurIPS 2024**
-- [_**Deja Vu: Continual Model Generalization for Unseen Domains**_](https://openreview.net/forum?id=L8iZdgeKmI6)
-  - Chenxi Liu\*\*, **Lixu Wang**\*\* #, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
-  - International Conference on Learning Representation, **ICLR 2023**
 - [_**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**_](https://ieeexplore.ieee.org/abstract/document/10447891/)
   - **Lixu Wang**, Shichao Xu, Xinyu Du, Qi Zhu
   - International Conference on Acoustics, Speech, and Signal Processing, **ICASSP 2024**
+- [_**Deja Vu: Continual Model Generalization for Unseen Domains**_](https://openreview.net/forum?id=L8iZdgeKmI6)
+  - **Lixu Wang**\* #, Chenxi Liu\*, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
+  - International Conference on Learning Representation, **ICLR 2023**
 - [_**Federated Class-Incremental Learning**_](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
-  - Jiahua Dong\*\*, **Lixu Wang**\*\*, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
+  - **Lixu Wang**\*, Jiahua Dong\*, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2022**
 - [_**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_](https://openreview.net/forum?id=tYRrOdSnVUy)
   - **Lixu Wang**\*, Shichao Xu\*, Ruiqi Xu, Xiao Wang, Qi Zhu
