@@ -63,8 +63,6 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 - [**Eavesdrop the Composition Proportion of Training Labels in Federated Learning**](https://arxiv.org/abs/1910.06044)
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
   - Arxiv 2019
-
-<span style="color: red;">test</span>
  
 ## Peer-reviewed Conferences
 - [_**Split Adaptation for Pre-trained Vision Transformers**_](https://arxiv.org/abs/2407.10223)
@@ -87,7 +85,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2022**
 - [_**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_](https://openreview.net/forum?id=tYRrOdSnVUy)
   - **Lixu Wang**\*, Shichao Xu\*, Ruiqi Xu, Xiao Wang, Qi Zhu
-  - International Conference on Learning Representation, **ICLR 2022 Oral**
+  - International Conference on Learning Representation, **ICLR 2022** <span style="color: red;">**Oral (top 1.5%)**</span>
 - [_**Weak Adaptation Learning: Addressing Cross-domain Data Insufficiency with Weak Annotator**_](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Weak_Adaptation_Learning_Addressing_Cross-Domain_Data_Insufficiency_With_Weak_Annotator_ICCV_2021_paper.html)
   - Shichao Xu\*, **Lixu Wang**\*, Yixuan Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision, **ICCV 2021**
