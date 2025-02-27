@@ -64,6 +64,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
   - Arxiv 2019
 
+<span style="color: red;">test</span>
  
 ## Peer-reviewed Conferences
 - [_**Split Adaptation for Pre-trained Vision Transformers**_](https://arxiv.org/abs/2407.10223)
