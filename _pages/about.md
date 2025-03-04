@@ -65,7 +65,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
   - Arxiv 2019
  
 ## Peer-reviewed Conferences
-- [_**Split Adaptation for Pre-trained Vision Transformers**_](https://arxiv.org/abs/2407.10223)
+- [_**Split Adaptation for Pre-trained Vision Transformers**_](https://arxiv.org/abs/2503.00441)
   - **Lixu Wang**\*, Bingqi Shang\*, Yi Li, Payal Mohapatra, Wei Dong, Xiao Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2025**
 - [_**On Large Language Model Continual Unlearning**_](https://arxiv.org/abs/2407.10223)
