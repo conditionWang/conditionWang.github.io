@@ -77,7 +77,6 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 - [_**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**_](https://ieeexplore.ieee.org/abstract/document/10447891/)
   - **Lixu Wang**, Shichao Xu, Xinyu Du, Qi Zhu
   - International Conference on Acoustics, Speech, and Signal Processing, **ICASSP 2024**
-  - <span style="color: red;">**Has deployed in products of General Motors**</span>
 - [_**Deja Vu: Continual Model Generalization for Unseen Domains**_](https://openreview.net/forum?id=L8iZdgeKmI6)
   - **Lixu Wang**\* #, Chenxi Liu\*, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2023**
