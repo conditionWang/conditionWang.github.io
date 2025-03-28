@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Lixu Wang. I am now visiting Nanyang Technological University (NTU) and working with [Prof. Wei Dong](https://weidong.hk/). I am a Ph.D. candidate in Computer Science at Northwestern University (NU), advised by [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en) and [Prof. Xiao Wang](https://wangxiao1254.github.io/), and partially supported by [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please email me if you are interested in my research.
+This is Lixu Wang. I am now visiting Nanyang Technological University (NTU) and working with [Prof. Wei Dong](https://weidong.hk/). I received my Ph.D. in Computer Science at Northwestern University (NU), advised by [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en) and [Prof. Xiao Wang](https://wangxiao1254.github.io/), and partially supported by [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please email me if you are interested in my research.
 
-I aim to contribute to Data-Centric Responsible AI, where my current interest is to achieve Controllable Customization for Large Models. In this topic, I focus on the content and user control of large foundation models, i.e., 1) what content should be included in models; 2) what content should be excluded from models; and 3) who should be authorized to use the models. Solving these problems benefits major facets of responsible AI, like ensuring data and model privacy protection, enhancing model reliability and accountability, aligning for benign purposes, and preventing harmful misuse. To achieve these goals, I have been developing novel techniques and approaches related to Federated Learning, Out-Source Training, Machine Unlearning, Generalization Restriction, and Multi-Party Computation with a diverse set of knowledge in Optimization Theory, Information Theory, and Cryptography.
+I aim to contribute to **Data-Centric Responsible AI**, where my current interest is to achieve Controllable Customization for Large Models. In this topic, I focus on the content and user control of large foundation models, i.e., 1) what content should be included in models; 2) what content should be excluded from models; and 3) who should be authorized to use the models. Solving these problems benefits major facets of responsible AI, like ensuring data and model privacy protection, enhancing model reliability and accountability, aligning for benign purposes, and preventing harmful misuse. To achieve these goals, I have been developing novel techniques and approaches related to Federated Learning, Out-Source Training, Machine Unlearning, Generalization Restriction, and Multi-Party Computation with a diverse set of knowledge in Optimization Theory, Information Theory, and Cryptography.
 
 
 
 # 🔥 News
+- *2025.04*: &nbsp; Papers about FL, VLM safety, and hallucination alleviation have been submitted to ICCV 2025 and MM 2025.
 - *2025.02*: &nbsp; 🎉Our paper about private downstream task adaptation of pre-trained transformers has been accepted to **CVPR 2025**.
 - *2025.01*: &nbsp; One paper about time-series analysis has been submitted to TMLR 2025.
 - *2025.01*: &nbsp; 🎉Our papers about LLM unlearning and backdoor attacks have been accepted by **ICLR 2025**.
@@ -125,7 +126,7 @@ I aim to contribute to Data-Centric Responsible AI, where my current interest is
 - *2018*: _1st Prize_, Chinese Mathematical Contest in Modeling, top 0.3%
 
 # 📖 Educations
-- *2021.01 - Present*, Northwestern University, Ph.D. in Computer Science, GPA: 4.0/4.0
+- *2021.01 - 2024.12*, Northwestern University, Ph.D. in Computer Science, GPA: 4.0/4.0
 - *2016.09 - 2020.07*, Zhejiang University, B.E. in Electrical and Computer Engineering, GPA: 3.96/4.0
 
 # 💬 Invited Talks
