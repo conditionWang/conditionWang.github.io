@@ -63,7 +63,7 @@ I aim to contribute to **Data-Centric Responsible AI**, where my current interes
   - Arxiv 2019
  
 ## Peer-reviewed Conferences
-- [**Federated Continuous Category Discovery and Learning**]
+- **Federated Continuous Category Discovery and Learning**
   - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Qingqing Ye, Heng Huang, Haibo Hu, Wei Dong
   - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
 - [_**Split Adaptation for Pre-trained Vision Transformers**_](https://arxiv.org/abs/2503.00441)
@@ -93,7 +93,7 @@ I aim to contribute to **Data-Centric Responsible AI**, where my current interes
 - [_**Addressing Class Imbalance in Federated Learning**_](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
   - AAAI Conference on Artificial Intelligence, **AAAI 2021**
-- [**FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models**]
+- [**FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models**](https://arxiv.org/abs/2411.00985)
   - Jiaqi Wu, Simin Chen, Jing Tang, Yuzhe YANG, Yiming Chen, **Lixu Wang**, Song Lin, Zehua Wang, Wei Chen, Zijian Tian
   - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
 - [**Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems**](https://arxiv.org/abs/2405.20774)
