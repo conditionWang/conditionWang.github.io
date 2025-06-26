@@ -24,7 +24,7 @@ I aim to contribute to **Data-Centric Responsible AI**, where my current interes
 
 
 # 🔥 News
-- *2025.04*: &nbsp; Papers about FL, VLM safety, and hallucination alleviation have been submitted to ICCV 2025 and MM 2025.
+- *2025.06*: &nbsp; 🎉Our papers about dynamic FL and FL prompt tuning have been accepted by **ICCV 2025**.
 - *2025.02*: &nbsp; 🎉Our paper about private downstream task adaptation of pre-trained transformers has been accepted to **CVPR 2025**.
 - *2025.01*: &nbsp; One paper about time-series analysis has been submitted to TMLR 2025.
 - *2025.01*: &nbsp; 🎉Our papers about LLM unlearning and backdoor attacks have been accepted by **ICLR 2025**.
@@ -55,9 +55,6 @@ I aim to contribute to **Data-Centric Responsible AI**, where my current interes
 - [**Phase-driven Generalization for Nonstationary Time Series**](https://arxiv.org/abs/2402.05960)
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
   - Arxiv 2024
-- [**Federated Continual Novel Class Learning**](https://arxiv.org/abs/2312.13500)
-  - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu
-  - Arxiv 2023
 - [**Federated Learning with New Knowledge: Fundamentals, Advances, and Futures**](https://arxiv.org/abs/2402.02268)
   - **Lixu Wang**, Yang Zhao, Jiahua Dong, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
   - Arxiv 2024
@@ -66,6 +63,9 @@ I aim to contribute to **Data-Centric Responsible AI**, where my current interes
   - Arxiv 2019
  
 ## Peer-reviewed Conferences
+- [**Federated Continuous Category Discovery and Learning**]
+  - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Qingqing Ye, Heng Huang, Haibo Hu, Wei Dong
+  - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
 - [_**Split Adaptation for Pre-trained Vision Transformers**_](https://arxiv.org/abs/2503.00441)
   - **Lixu Wang**\*, Bingqi Shang\*, Yi Li, Payal Mohapatra, Wei Dong, Xiao Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2025**
@@ -93,6 +93,9 @@ I aim to contribute to **Data-Centric Responsible AI**, where my current interes
 - [_**Addressing Class Imbalance in Federated Learning**_](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
   - AAAI Conference on Artificial Intelligence, **AAAI 2021**
+- [**FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models**]
+  - Jiaqi Wu, Simin Chen, Jing Tang, Yuzhe YANG, Yiming Chen, **Lixu Wang**, Song Lin, Zehua Wang, Wei Chen, Zijian Tian
+  - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
 - [**Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems**](https://arxiv.org/abs/2405.20774)
   - Ruochen Jiao, Shaoyuan Xie, Justin Yue, Takami Sato, **Lixu Wang**, Yixuan Wang, Qi Alfred Chen, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2025**
