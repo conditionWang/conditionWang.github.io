@@ -68,7 +68,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [**The Eye of Sherlock Holmes: Uncovering User Private Attribute Profiling via Vision-Language Model Agentic Framework**](https://arxiv.org/abs/2505.19139)
   - Feiran Liu, Yuzhe Zhang, Xinyi Huang, Yinan Peng, Xinfeng Li, **Lixu Wang**, Yutong Shen, Ranjie Duan, Simeng Qin, Xiaojun Jia, Qingsong Wen, Wei Dong
   - ACM International Conference on Multimedia, **MM 2025**
-- [**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**](https://arxiv.org/abs/2505.12226)
+- [**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**](https://arxiv.org/abs/2412.18230)
   - Jiaqi Wu, Shihao Zhang, Simin Chen, **Lixu Wang**, Zehua Wang, Wei Chen, Fangyuan He, Zijian Tian, F Richard Yu, Victor Leung
   - IEEE Transactions on Mobile Computing, **TMC 2025**
 - [**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**](https://arxiv.org/abs/2505.12226)
