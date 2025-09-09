@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Lixu Wang. I am now a research fellow at Nanyang Technological University (NTU) and working with Prof. Xiaofeng Wang and [Prof. Wei Dong](https://weidong.hk/). I received my Ph.D. in Computer Science at Northwestern University (NU), advised by [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en) and [Prof. Xiao Wang](https://wangxiao1254.github.io/), and supported by [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). Prior to Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please email me if you are interested in my research.
+This is Lixu Wang. I am now a research fellow at Nanyang Technological University (NTU) and working with [Prof. Xiaofeng Wang](https://wangxiaofeng7.github.io/) and [Prof. Wei Dong](https://weidong.hk/). I received my Ph.D. in Computer Science at Northwestern University (NU), advised by [Prof. Xiao Wang](https://wangxiao1254.github.io/) and [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en), and supported by [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). Before Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please email me if you are interested in my research.
 
-My research is dedicated to building high-quality AI models from data that carry various real-world concerns in quality, privacy, and copyright. Addressing these foundational data challenges unlocks significant benefits. By enabling AI to learn effectively from broader, more diverse datasets at lower cost, we empower the creation of robust models capable of transforming multiple domains. At the same time, policymakers worldwide are raising the bar for data governance. AI systems built with these data concerns addressed can support lawful data use, protect data owners’ rights, and maintain compliance across their full lifecycle. To this end, I develop novel methods in federated learning, outsourced computation, machine unlearning, and secure inference and training, drawing on optimization theory, information theory, and cryptography.
+My research is dedicated to building responsible AI by addressing real-world data concerns. By enabling AI to learn effectively from broader datasets at lower cost, we empower the creation of useful models capable of transforming multiple domains. At the same time, policymakers worldwide are raising the bar for data governance. AI systems built with these data concerns addressed can support lawful data use, protect data owners’ rights, and maintain compliance across their full lifecycle. To this end, I develop novel methods in domain generalization, federated learning, machine unlearning, and multi-party computation, drawing on optimization theory, information theory, and cryptography.
 
 
 
@@ -68,6 +68,9 @@ My research is dedicated to building high-quality AI models from data that carry
 - [**The Eye of Sherlock Holmes: Uncovering User Private Attribute Profiling via Vision-Language Model Agentic Framework**](https://arxiv.org/abs/2505.19139)
   - Feiran Liu, Yuzhe Zhang, Xinyi Huang, Yinan Peng, Xinfeng Li, **Lixu Wang**, Yutong Shen, Ranjie Duan, Simeng Qin, Xiaojun Jia, Qingsong Wen, Wei Dong
   - ACM International Conference on Multimedia, **MM 2025**
+- [**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**](https://arxiv.org/abs/2505.12226)
+  - Jiaqi Wu, Shihao Zhang, Simin Chen, **Lixu Wang**, Zehua Wang, Wei Chen, Fangyuan He, Zijian Tian, F Richard Yu, Victor Leung
+  - IEEE Transactions on Mobile Computing, **TMC 2025**
 - [**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**](https://arxiv.org/abs/2505.12226)
   - Dong Yang, Yiyi Cai, Yuki Saito, **Lixu Wang**, Hiroshi Saruwatari
   - Arxiv 2025
@@ -91,9 +94,6 @@ My research is dedicated to building high-quality AI models from data that carry
 - **Learning From Each Other: Generalized Federated Incremental Semantic Segmentation**
   - Jiahua Dong, Wenqi Liang, Yang Cong, Gan Sun, **Lixu Wang**, Henghui Ding, Yulun Zhang, Luc Van Gool
   - Under revision of TPAMI
-- **Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**
-  - Jiaqi Wu, Shihao Zhang, Simin Chen, **Lixu Wang**, Zehua Wang, Wei Chen, Fangyuan He, Zijian Tian, F Richard Yu, Victor Leung
-  - Under revision of TMC
 
 ## Year 2023
 - [_**Deja Vu: Continual Model Generalization for Unseen Domains**_](https://openreview.net/forum?id=L8iZdgeKmI6)
