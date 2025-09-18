@@ -59,6 +59,12 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [_**On Large Language Model Continual Unlearning**_](https://arxiv.org/abs/2407.10223)
   - **Lixu Wang**\* #, Chongyang Gao\*, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2025**
+- [**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**](https://arxiv.org/abs/2505.12226)
+  - Dong Yang, Yiyi Cai, Yuki Saito, **Lixu Wang**, Hiroshi Saruwatari
+  - 39th Conference on Neural Information Processing Systems, **NeurIPS 2025**
+- **WebCloak: Characterizing and Mitigating Threats from LLM-Driven Web Agents as Intelligent Scrapers**
+  - Xinfeng Li, Tianze Qiu, Yingbin Jin, **Lixu Wang**, Hanqing Guo, Xiaojun Jia, Xiaofeng Wang, Wei Dong
+  - IEEE Symposium on Security and Privacy, **SP 2026**
 - [**FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models**](https://arxiv.org/abs/2411.00985)
   - Jiaqi Wu, Simin Chen, Jing Tang, Yuzhe YANG, Yiming Chen, **Lixu Wang**, Song Lin, Zehua Wang, Wei Chen, Zijian Tian
   - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
@@ -71,9 +77,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**](https://arxiv.org/abs/2412.18230)
   - Jiaqi Wu, Shihao Zhang, Simin Chen, **Lixu Wang**, Zehua Wang, Wei Chen, Fangyuan He, Zijian Tian, F Richard Yu, Victor Leung
   - IEEE Transactions on Mobile Computing, **TMC 2025**
-- [**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**](https://arxiv.org/abs/2505.12226)
-  - Dong Yang, Yiyi Cai, Yuki Saito, **Lixu Wang**, Hiroshi Saruwatari
-  - Arxiv 2025
+
 
 ## Year 2024
 - [_**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_](https://arxiv.org/abs/2403.05690)
