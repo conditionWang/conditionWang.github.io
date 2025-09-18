@@ -77,6 +77,9 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**](https://arxiv.org/abs/2412.18230)
   - Jiaqi Wu, Shihao Zhang, Simin Chen, **Lixu Wang**, Zehua Wang, Wei Chen, Fangyuan He, Zijian Tian, F Richard Yu, Victor Leung
   - IEEE Transactions on Mobile Computing, **TMC 2025**
+- **Efficient Banzhaf-Based Data Valuation for k-Nearest Neighbors**
+  - Guangyi Zhang, Lutz Oettershagen, **Lixu Wang**, Aristides Gionis
+  - Under revision of VLDB
 
 
 ## Year 2024
