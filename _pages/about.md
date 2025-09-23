@@ -57,7 +57,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
   - **Lixu Wang**\*, Bingqi Shang\*, Yi Li, Payal Mohapatra, Wei Dong, Xiao Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2025**
 - [_**On Large Language Model Continual Unlearning**_](https://arxiv.org/abs/2407.10223)
-  - **Lixu Wang**\* #, Chongyang Gao\*, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
+  -  Chongyang Gao\*, **Lixu Wang**\* #, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2025**
 - [**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**](https://arxiv.org/abs/2505.12226)
   - Dong Yang, Yiyi Cai, Yuki Saito, **Lixu Wang**, Hiroshi Saruwatari
@@ -104,7 +104,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 
 ## Year 2023
 - [_**Deja Vu: Continual Model Generalization for Unseen Domains**_](https://openreview.net/forum?id=L8iZdgeKmI6)
-  - **Lixu Wang**\* #, Chenxi Liu\*, Linjun Lu, Chen Sun, Xiao Wang, Qi Zhu
+  -  Chenxi Liu\*, **Lixu Wang**\* #, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2023**
 - [_**PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning**_](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_PolicyCleanse_Backdoor_Detection_and_Mitigation_for_Competitive_Reinforcement_Learning_ICCV_2023_paper.html)
   - Junfeng Guo, Ang Li, **Lixu Wang**, Cong Liu
@@ -115,7 +115,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
  
 ## Year 2022
 - [_**Federated Class-Incremental Learning**_](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
-  - **Lixu Wang**\*, Jiahua Dong\*, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
+  -  Jiahua Dong\*, **Lixu Wang**\*, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2022**
 - [_**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_](https://openreview.net/forum?id=tYRrOdSnVUy)
   - **Lixu Wang**\*, Shichao Xu\*, Ruiqi Xu, Xiao Wang, Qi Zhu
