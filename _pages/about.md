@@ -47,9 +47,12 @@ My research is dedicated to building responsible AI by addressing real-world dat
 
 
 # 📝 Publications 
-\* denotes equal contribution, # denotes corresponding authors
+\* denotes equal contribution, # denotes alphabetical ordering
 
 ## Year 2025
+- [**Phase-driven Generalization for Nonstationary Time Series**](https://arxiv.org/abs/2402.05960)
+  - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
+  - Transaction on Machine Learning Research, **TMLR 2025**
 - **Federated Continuous Category Discovery and Learning**
   - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Qingqing Ye, Heng Huang, Haibo Hu, Wei Dong
   - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
@@ -57,7 +60,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
   - **Lixu Wang**\*, Bingqi Shang\*, Yi Li, Payal Mohapatra, Wei Dong, Xiao Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2025**
 - [_**On Large Language Model Continual Unlearning**_](https://arxiv.org/abs/2407.10223)
-  -  Chongyang Gao\*, **Lixu Wang**\* #, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
+  -  Chongyang Gao\* #, **Lixu Wang**\* #, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2025**
 - [**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**](https://arxiv.org/abs/2505.12226)
   - Dong Yang, Yiyi Cai, Yuki Saito, **Lixu Wang**, Hiroshi Saruwatari
@@ -93,18 +96,15 @@ My research is dedicated to building responsible AI by addressing real-world dat
   - Jiaxi Yang, Yang Zhao, Yiling Tao, **Lixu Wang**, Xiaoxiao Li, Dusit Niyato
   - IEEE **Network Magazine 2024**
 - [**Federated Learning with New Knowledge: Fundamentals, Advances, and Futures**](https://arxiv.org/abs/2402.02268)
-  - **Lixu Wang**, Yang Zhao, Jiahua Dong, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
+  - **Lixu Wang**\*, Yang Zhao\*, Jiahua Dong, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
   - Arxiv 2024
-- [**Phase-driven Generalization for Nonstationary Time Series**](https://arxiv.org/abs/2402.05960)
-  - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
-  - Under revision of TMLR
 - **Learning From Each Other: Generalized Federated Incremental Semantic Segmentation**
   - Jiahua Dong, Wenqi Liang, Yang Cong, Gan Sun, **Lixu Wang**, Henghui Ding, Yulun Zhang, Luc Van Gool
   - Under revision of TPAMI
 
 ## Year 2023
 - [_**Deja Vu: Continual Model Generalization for Unseen Domains**_](https://openreview.net/forum?id=L8iZdgeKmI6)
-  -  Chenxi Liu\*, **Lixu Wang**\* #, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu
+  -  Chenxi Liu\* #, **Lixu Wang**\* #, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2023**
 - [_**PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning**_](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_PolicyCleanse_Backdoor_Detection_and_Mitigation_for_Competitive_Reinforcement_Learning_ICCV_2023_paper.html)
   - Junfeng Guo, Ang Li, **Lixu Wang**, Cong Liu
@@ -115,14 +115,14 @@ My research is dedicated to building responsible AI by addressing real-world dat
  
 ## Year 2022
 - [_**Federated Class-Incremental Learning**_](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
-  -  Jiahua Dong\*, **Lixu Wang**\*, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
+  -  Jiahua Dong\* #, **Lixu Wang**\* #, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2022**
 - [_**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_](https://openreview.net/forum?id=tYRrOdSnVUy)
   - **Lixu Wang**\*, Shichao Xu\*, Ruiqi Xu, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR 2022** <span style="color: red;">**Oral (top 1.5%)**</span>
 - [_**Incremental 3D Object Recognition for Point Cloud Representation**_](https://ieeexplore.ieee.org/abstract/document/10054469)
   - Jiahua Dong, Gan Sun, **Lixu Wang**, Jun Li, Lingjuan Lyu, Konukoglu Ender
-  - IEEE Transaction on Neural Networks and Learning Systems, **TNNLS 2022**
+  - IEEE Transactions on Neural Networks and Learning Systems, **TNNLS 2022**
 
 ## Year 2021 and before
 - [_**Weak Adaptation Learning: Addressing Cross-domain Data Insufficiency with Weak Annotator**_](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Weak_Adaptation_Learning_Addressing_Cross-Domain_Data_Insufficiency_With_Weak_Annotator_ICCV_2021_paper.html)
@@ -144,7 +144,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - *2020*: Outstanding Undergraduate Dissertation Award (ZJU)
 - *2020*: Computer Science Ph.D. Fellowship (NU)
 - *2020*: Outstanding Graduate of Zhejiang (Zhejiang Provincial Government)
-- *2019*: _Wang Guosong_ Outstanding Scholarship (ZJU highest honor in EECS)
+- *2019*: _Wang Guosong_ Outstanding Scholarship (ZJU's highest honor in EECS)
 - *2018*: _1st Prize_, Chinese Mathematical Contest in Modeling, top 0.3%
 
 # 📖 Educations
