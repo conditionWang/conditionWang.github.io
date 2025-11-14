@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Lixu Wang. I am now a research fellow at Nanyang Technological University (NTU) and working with [Prof. Wei Dong](https://weidong.hk/). I received my Ph.D. in Computer Science at Northwestern University (NU), advised by [Prof. Xiao Wang](https://wangxiao1254.github.io/) and [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en), and supported by [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). Before Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please email me if you are interested in my research.
+This is Lixu Wang. I am now a research fellow at Nanyang Technological University (NTU) and working with [Prof. Wei Dong](https://weidong.hk/). I received my Ph.D. in Computer Science at Northwestern University (NU), advised by [Prof. Xiao Wang](https://wangxiao1254.github.io/) and [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en), and supported by [IBM PhD Fellowship](https://researchweb.draco.res.ibm.com/university/awards/fellowships-awardees.html). Before Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please email me if you are interested in my research.
 
-My research is dedicated to building responsible AI by addressing real-world data concerns. By enabling AI to learn effectively from broader datasets at lower cost, we empower the creation of useful models capable of transforming multiple domains. At the same time, policymakers worldwide are raising the bar for data governance. AI systems built with these data concerns addressed can support lawful data use, protect data owners’ rights, and maintain compliance across their full lifecycle. To this end, I develop novel methods in domain generalization, federated learning, machine unlearning, and multi-party computation, drawing on optimization theory, information theory, and cryptography.
+My research is dedicated to building responsible AI by addressing real-world data concerns. By enabling AI to learn effectively from broader datasets at lower cost, we empower the creation of useful models capable of transforming multiple domains. At the same time, policymakers worldwide are raising the bar for data governance. AI systems built with these data concerns addressed can support lawful data use, protect data owners’ rights, and maintain compliance across their full lifecycle. To this end, I develop novel methods in domain generalization, federated learning, continual learning, machine unlearning, and multi-party computation, drawing on optimization theory, information theory, and cryptography.
 
 
 
@@ -52,7 +52,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 ## Year 2025
 - [**Phase-driven Generalization for Nonstationary Time Series**](https://arxiv.org/abs/2402.05960)
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
-  - Transaction on Machine Learning Research, **TMLR 2025**
+  - Transaction on Machine Learning Research, **TMLR 2025** (Spotlight at NeurIPS 2025 Workshop on Learning from Time Series for Health)
 - **Federated Continuous Category Discovery and Learning**
   - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Qingqing Ye, Heng Huang, Haibo Hu, Wei Dong
   - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
