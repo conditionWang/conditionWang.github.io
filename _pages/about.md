@@ -49,6 +49,18 @@ My research is dedicated to building responsible AI by addressing real-world dat
 # 📝 Publications 
 \* denotes equal contribution, # denotes alphabetical ordering
 
+## Year 2026
+- **WebCloak: Characterizing and Mitigating Threats from LLM-Driven Web Agents as Intelligent Scrapers**
+  - Xinfeng Li, Tianze Qiu, Yingbin Jin, **Lixu Wang**, Hanqing Guo, Xiaojun Jia, Xiaofeng Wang, Wei Dong
+  - IEEE Symposium on Security and Privacy, **SP 2026**
+- **Defense against Poisoning Attacks under Shuffle-DP**
+  - Siyi Wang, Qiyao Luo, Yihua Hu, **Lixu Wang**, Quanqing Xu, Chuanhui Yang, Zhan Qin, Kui Ren, Wei Dong
+  - International Conference on Management of Data, **SIGMOD 2026**
+- **Efficient Banzhaf-Based Data Valuation for k-Nearest Neighbors**
+  - Guangyi Zhang, Lutz Oettershagen, **Lixu Wang**, Aristides Gionis
+  - Under revision of VLDB
+
+
 ## Year 2025
 - [**Phase-driven Generalization for Nonstationary Time Series**](https://arxiv.org/abs/2402.05960)
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
@@ -65,9 +77,6 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**](https://arxiv.org/abs/2505.12226)
   - Dong Yang, Yiyi Cai, Yuki Saito, **Lixu Wang**, Hiroshi Saruwatari
   - 39th Conference on Neural Information Processing Systems, **NeurIPS 2025**
-- **WebCloak: Characterizing and Mitigating Threats from LLM-Driven Web Agents as Intelligent Scrapers**
-  - Xinfeng Li, Tianze Qiu, Yingbin Jin, **Lixu Wang**, Hanqing Guo, Xiaojun Jia, Xiaofeng Wang, Wei Dong
-  - IEEE Symposium on Security and Privacy, **SP 2026**
 - [**FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models**](https://arxiv.org/abs/2411.00985)
   - Jiaqi Wu, Simin Chen, Jing Tang, Yuzhe YANG, Yiming Chen, **Lixu Wang**, Song Lin, Zehua Wang, Wei Chen, Zijian Tian
   - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
@@ -80,9 +89,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**](https://arxiv.org/abs/2412.18230)
   - Jiaqi Wu, Shihao Zhang, Simin Chen, **Lixu Wang**, Zehua Wang, Wei Chen, Fangyuan He, Zijian Tian, F Richard Yu, Victor Leung
   - IEEE Transactions on Mobile Computing, **TMC 2025**
-- **Efficient Banzhaf-Based Data Valuation for k-Nearest Neighbors**
-  - Guangyi Zhang, Lutz Oettershagen, **Lixu Wang**, Aristides Gionis
-  - Under revision of VLDB
+
 
 
 ## Year 2024
@@ -95,9 +102,6 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [_**A Survey of Federated Unlearning: A Taxonomy, Challenges, and Future Directions**_](https://arxiv.org/abs/2310.19218)
   - Jiaxi Yang, Yang Zhao, Yiling Tao, **Lixu Wang**, Xiaoxiao Li, Dusit Niyato
   - IEEE **Network Magazine 2024**
-- [**Federated Learning with New Knowledge: Fundamentals, Advances, and Futures**](https://arxiv.org/abs/2402.02268)
-  - **Lixu Wang**\*, Yang Zhao\*, Jiahua Dong, Ating Yin, Qinbin Li, Xiao Wang, Dusit Niyato, Qi Zhu
-  - Arxiv 2024
 - **Learning From Each Other: Generalized Federated Incremental Semantic Segmentation**
   - Jiahua Dong, Wenqi Liang, Yang Cong, Gan Sun, **Lixu Wang**, Henghui Ding, Yulun Zhang, Luc Van Gool
   - Under revision of TPAMI
@@ -134,9 +138,6 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [_**mID: Tracing Screen Photos via Moire Patterns**_](https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-yushi)
   - Yushi Cheng, Xiaoyu Ji, **Lixu Wang**\*, Qi Pang\*, Yi-Chao Chen, Wenyuan Xu
   - USENIX Security Symposium, **Usenix Security 2021**
-- [**Eavesdrop the Composition Proportion of Training Labels in Federated Learning**](https://arxiv.org/abs/1910.06044)
-  - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
-  - Arxiv 2019
 
 
 # 🎖 Honors and Awards
