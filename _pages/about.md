@@ -50,94 +50,98 @@ My research is dedicated to building responsible AI by addressing real-world dat
 \* denotes equal contribution, # denotes alphabetical ordering
 
 ## Year 2026
+- **FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning**
+  - Yuan Yao, **Lixu Wang**, Jiaqi Wu, Jin Song, Simin Chen, Zehua Wang, Zijian Tian, Wei Chen, Huixia Li, Xiaoxiao Li
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR**
 - **WebCloak: Characterizing and Mitigating Threats from LLM-Driven Web Agents as Intelligent Scrapers**
   - Xinfeng Li, Tianze Qiu, Yingbin Jin, **Lixu Wang**, Hanqing Guo, Xiaojun Jia, Xiaofeng Wang, Wei Dong
-  - IEEE Symposium on Security and Privacy, **SP 2026**
+  - IEEE Symposium on Security and Privacy, **SP**
 - **Defense against Poisoning Attacks under Shuffle-DP**
   - Siyi Wang, Qiyao Luo, Yihua Hu, **Lixu Wang**, Quanqing Xu, Chuanhui Yang, Zhan Qin, Kui Ren, Wei Dong
-  - International Conference on Management of Data, **SIGMOD 2026**
+  - International Conference on Management of Data, **SIGMOD**
 - **Efficient Banzhaf-Based Data Valuation for k-Nearest Neighbors**
   - Guangyi Zhang, Lutz Oettershagen, **Lixu Wang**, Aristides Gionis
   - Under revision of VLDB
+- **Learning From Each Other: Generalized Federated Incremental Semantic Segmentation**
+  - Jiahua Dong, Wenqi Liang, Yang Cong, Gan Sun, **Lixu Wang**, Henghui Ding, Yulun Zhang, Luc Van Gool
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence, **TPAMI**
 
 
 ## Year 2025
 - [**Phase-driven Generalization for Nonstationary Time Series**](https://arxiv.org/abs/2402.05960)
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
-  - Transaction on Machine Learning Research, **TMLR 2025** (Spotlight at NeurIPS 2025 Workshop on Learning from Time Series for Health)
+  - Transaction on Machine Learning Research, **TMLR** (Spotlight at NeurIPS 2025 Workshop on Learning from Time Series for Health)
 - **Federated Continuous Category Discovery and Learning**
   - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Qingqing Ye, Heng Huang, Haibo Hu, Wei Dong
-  - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
+  - IEEE/CVF Conference on Computer Vision, **ICCV**
 - [_**Split Adaptation for Pre-trained Vision Transformers**_](https://arxiv.org/abs/2503.00441)
   - **Lixu Wang**\*, Bingqi Shang\*, Yi Li, Payal Mohapatra, Wei Dong, Xiao Wang, Qi Zhu
-  - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2025**
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR**
 - [_**On Large Language Model Continual Unlearning**_](https://arxiv.org/abs/2407.10223)
   -  Chongyang Gao\* #, **Lixu Wang**\* #, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu
-  - International Conference on Learning Representation, **ICLR 2025**
+  - International Conference on Learning Representation, **ICLR**
 - [**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**](https://arxiv.org/abs/2505.12226)
   - Dong Yang, Yiyi Cai, Yuki Saito, **Lixu Wang**, Hiroshi Saruwatari
-  - 39th Conference on Neural Information Processing Systems, **NeurIPS 2025**
+  - 39th Conference on Neural Information Processing Systems, **NeurIPS**
 - [**FDPT: Federated Discrete Prompt Tuning for Black-Box Visual-Language Models**](https://arxiv.org/abs/2411.00985)
   - Jiaqi Wu, Simin Chen, Jing Tang, Yuzhe YANG, Yiming Chen, **Lixu Wang**, Song Lin, Zehua Wang, Wei Chen, Zijian Tian
-  - IEEE/CVF Conference on Computer Vision, **ICCV 2025**
+  - IEEE/CVF Conference on Computer Vision, **ICCV**
 - [**Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems**](https://arxiv.org/abs/2405.20774)
   - Ruochen Jiao, Shaoyuan Xie, Justin Yue, Takami Sato, **Lixu Wang**, Yixuan Wang, Qi Alfred Chen, Qi Zhu
-  - International Conference on Learning Representation, **ICLR 2025**
+  - International Conference on Learning Representation, **ICLR**
 - [**The Eye of Sherlock Holmes: Uncovering User Private Attribute Profiling via Vision-Language Model Agentic Framework**](https://arxiv.org/abs/2505.19139)
   - Feiran Liu, Yuzhe Zhang, Xinyi Huang, Yinan Peng, Xinfeng Li, **Lixu Wang**, Yutong Shen, Ranjie Duan, Simeng Qin, Xiaojun Jia, Qingsong Wen, Wei Dong
-  - ACM International Conference on Multimedia, **MM 2025**
+  - ACM International Conference on Multimedia, **MM**
 - [**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**](https://arxiv.org/abs/2412.18230)
   - Jiaqi Wu, Shihao Zhang, Simin Chen, **Lixu Wang**, Zehua Wang, Wei Chen, Fangyuan He, Zijian Tian, F Richard Yu, Victor Leung
-  - IEEE Transactions on Mobile Computing, **TMC 2025**
+  - IEEE Transactions on Mobile Computing, **TMC**
 
 
 
 ## Year 2024
 - [_**Semantic Feature Learning for Universal Unsupervised Cross-Domain Retrieval**_](https://arxiv.org/abs/2403.05690)
   - **Lixu Wang**, Xinyu Du, Qi Zhu
-  - 38th Conference on Neural Information Processing Systems, **NeurIPS 2024**
+  - 38th Conference on Neural Information Processing Systems, **NeurIPS**
 - [_**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**_](https://ieeexplore.ieee.org/abstract/document/10447891/)
   - **Lixu Wang**, Shichao Xu, Xinyu Du, Qi Zhu
-  - International Conference on Acoustics, Speech, and Signal Processing, **ICASSP 2024**
+  - International Conference on Acoustics, Speech, and Signal Processing, **ICASSP**
 - [_**A Survey of Federated Unlearning: A Taxonomy, Challenges, and Future Directions**_](https://arxiv.org/abs/2310.19218)
   - Jiaxi Yang, Yang Zhao, Yiling Tao, **Lixu Wang**, Xiaoxiao Li, Dusit Niyato
-  - IEEE **Network Magazine 2024**
-- **Learning From Each Other: Generalized Federated Incremental Semantic Segmentation**
-  - Jiahua Dong, Wenqi Liang, Yang Cong, Gan Sun, **Lixu Wang**, Henghui Ding, Yulun Zhang, Luc Van Gool
-  - Under revision of TPAMI
+  - IEEE **Network Magazine**
+
 
 ## Year 2023
 - [_**Deja Vu: Continual Model Generalization for Unseen Domains**_](https://openreview.net/forum?id=L8iZdgeKmI6)
   -  Chenxi Liu\* #, **Lixu Wang**\* #, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu
-  - International Conference on Learning Representation, **ICLR 2023**
+  - International Conference on Learning Representation, **ICLR**
 - [_**PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning**_](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_PolicyCleanse_Backdoor_Detection_and_Mitigation_for_Competitive_Reinforcement_Learning_ICCV_2023_paper.html)
   - Junfeng Guo, Ang Li, **Lixu Wang**, Cong Liu
-  - IEEE/CVF Conference on Computer Vision, **ICCV 2023**
+  - IEEE/CVF Conference on Computer Vision, **ICCV**
 - [_**Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand**_](https://proceedings.neurips.cc/paper_files/paper/2023/hash/aa6287ca31ae1474ea802342d0c8ba63-Abstract-Conference.html)
   - Junfeng Guo, Yiming Li, **Lixu Wang**, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li
-  - 37th Conference on Neural Information Processing Systems, **NeurIPS 2023**
+  - 37th Conference on Neural Information Processing Systems, **NeurIPS**
  
 ## Year 2022
 - [_**Federated Class-Incremental Learning**_](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
   -  Jiahua Dong\* #, **Lixu Wang**\* #, Zhen Fang, Gan Sun, Shichao Xu, Xiao Wang, Qi Zhu
-  - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2022**
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR**
 - [_**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_](https://openreview.net/forum?id=tYRrOdSnVUy)
   - **Lixu Wang**\*, Shichao Xu\*, Ruiqi Xu, Xiao Wang, Qi Zhu
-  - International Conference on Learning Representation, **ICLR 2022** <span style="color: red;">**Oral (top 1.5%)**</span>
+  - International Conference on Learning Representation, **ICLR** <span style="color: red;">**Oral (top 1.5%)**</span>
 - [_**Incremental 3D Object Recognition for Point Cloud Representation**_](https://ieeexplore.ieee.org/abstract/document/10054469)
   - Jiahua Dong, Gan Sun, **Lixu Wang**, Jun Li, Lingjuan Lyu, Konukoglu Ender
-  - IEEE Transactions on Neural Networks and Learning Systems, **TNNLS 2022**
+  - IEEE Transactions on Neural Networks and Learning Systems, **TNNLS**
 
 ## Year 2021 and before
 - [_**Weak Adaptation Learning: Addressing Cross-domain Data Insufficiency with Weak Annotator**_](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Weak_Adaptation_Learning_Addressing_Cross-Domain_Data_Insufficiency_With_Weak_Annotator_ICCV_2021_paper.html)
   - Shichao Xu\*, **Lixu Wang**\*, Yixuan Wang, Qi Zhu
-  - IEEE/CVF Conference on Computer Vision, **ICCV 2021**
+  - IEEE/CVF Conference on Computer Vision, **ICCV**
 - [_**Addressing Class Imbalance in Federated Learning**_](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
   - **Lixu Wang**, Shichao Xu, Xiao Wang, Qi Zhu
-  - AAAI Conference on Artificial Intelligence, **AAAI 2021**
+  - AAAI Conference on Artificial Intelligence, **AAAI**
 - [_**mID: Tracing Screen Photos via Moire Patterns**_](https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-yushi)
   - Yushi Cheng, Xiaoyu Ji, **Lixu Wang**\*, Qi Pang\*, Yi-Chao Chen, Wenyuan Xu
-  - USENIX Security Symposium, **Usenix Security 2021**
+  - USENIX Security Symposium, **Usenix Security**
 
 
 # 🎖 Honors and Awards
