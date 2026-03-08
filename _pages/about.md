@@ -50,6 +50,9 @@ My research is dedicated to building responsible AI by addressing real-world dat
 \* denotes equal contribution, # denotes alphabetical ordering
 
 ## Year 2026
+- **Incorporating New Knowledge into Federated Learning: Advances, Insights, and Future Directions**
+  - **Lixu Wang**, Sun Yinggang, Yang Zhao, Jiaqi Wu, Jiahua Dong, Ating Yin, Qinbin Li, Qingqing Ye, Dusit Niyato, Tianwei Zhang, Kwok-Yan Lam, Yu Haining, Haibo Hu, Wei Dong
+  - Transaction on Machine Learning Research, **TMLR**
 - **FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning**
   - Yuan Yao, **Lixu Wang**, Jiaqi Wu, Jin Song, Simin Chen, Zehua Wang, Zijian Tian, Wei Chen, Huixia Li, Xiaoxiao Li
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR**
@@ -163,5 +166,5 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - *2022.03*, Federated Class-Incremental Learning, SSFAI Academic Invited Talks.
 
 # 💻 Services
-- *Reviewer/Program Committee*: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, MM, WACV, TNNLS, TCSVT, etc.
+- *Reviewer/Program Committee*: CCS, NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, MM, WACV, TNNLS, TCSVT, etc.
 - *Advising*: Ruiqi Xu (B.S. NU &rarr; Ph.D. Uchicago); Chenxi Liu (M.S. NU &rarr; Ph.D. UMaryland), Jinjin Cai (M.S. NU &rarr; Ph.D. Purdue), Yufei Wang (M.S. NU &rarr; Ph.D. Northeastern), Shiyuan Duan (M.S. NU &rarr; Ph.D. UIUC), Bingqi Shang (M.S. NU &rarr; Ph.D. MSU).
