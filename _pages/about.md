@@ -24,6 +24,10 @@ My research is dedicated to building responsible AI by addressing real-world dat
 
 
 # 🔥 News
+- *2026.03*: &nbsp; 🎉Our paper about audio privacy leakage has been accepted by **IEEE SP 2026**.
+- *2026.02*: &nbsp; 🎉Our papers about heterogeneous and dynamic FL have been accepted by **CVPR 2026** and **TMLR 2026**.
+- *2026.01*: &nbsp; 🎉Our paper about dynamic FL has been accepted by **TPAMI 2026**.
+- *2025.09*: &nbsp; 🎉Our papers about shuffle-DP and web agent governance have been accepted by **SIGMOD 2026** and **IEEE SP 2026**.
 - *2025.07*: &nbsp; 🎉Our proposal about privacy-preserving data transaction has been successfully funded (210,000 $SGD).
 - *2025.06*: &nbsp; 🎉Our papers about dynamic FL, FL prompt tuning, and visual privacy leakage have been accepted by **ICCV 2025** and **MM 2025**.
 - *2025.02*: &nbsp; 🎉Our paper about private downstream task adaptation of pre-trained transformers has been accepted to **CVPR 2025**.
@@ -50,6 +54,9 @@ My research is dedicated to building responsible AI by addressing real-world dat
 \* denotes equal contribution, # denotes alphabetical ordering
 
 ## Year 2026
+- **The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models**
+  - **Lixu Wang**, Kaixiang Yao, Xinfeng Li, Dong Yang, Haoyang Li, Xiaofeng Wang, Wei Dong
+  - IEEE Symposium on Security and Privacy, **IEEE SP**
 - **Incorporating New Knowledge into Federated Learning: Advances, Insights, and Future Directions**
   - **Lixu Wang**, Sun Yinggang, Yang Zhao, Jiaqi Wu, Jiahua Dong, Ating Yin, Qinbin Li, Qingqing Ye, Dusit Niyato, Tianwei Zhang, Kwok-Yan Lam, Yu Haining, Haibo Hu, Wei Dong
   - Transaction on Machine Learning Research, **TMLR**
@@ -58,7 +65,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR**
 - **WebCloak: Characterizing and Mitigating Threats from LLM-Driven Web Agents as Intelligent Scrapers**
   - Xinfeng Li, Tianze Qiu, Yingbin Jin, **Lixu Wang**, Hanqing Guo, Xiaojun Jia, Xiaofeng Wang, Wei Dong
-  - IEEE Symposium on Security and Privacy, **SP**
+  - IEEE Symposium on Security and Privacy, **IEEE SP**
 - **Defense against Poisoning Attacks under Shuffle-DP**
   - Siyi Wang, Qiyao Luo, Yihua Hu, **Lixu Wang**, Quanqing Xu, Chuanhui Yang, Zhan Qin, Kui Ren, Wei Dong
   - International Conference on Management of Data, **SIGMOD**
