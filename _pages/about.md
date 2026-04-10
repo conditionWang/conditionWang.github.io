@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Lixu Wang. I am now a research fellow at Nanyang Technological University (NTU) and working with [Prof. Wei Dong](https://weidong.hk/). I received my Ph.D. in Computer Science at Northwestern University (NU), advised by [Prof. Xiao Wang](https://wangxiao1254.github.io/) and [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en), and supported by [IBM PhD Fellowship](https://researchweb.draco.res.ibm.com/university/awards/fellowships-awardees.html). Before Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration, please email me if you are interested in my research.
+This is Lixu Wang. I am now a research fellow at Nanyang Technological University (NTU) and working with [Prof. Wei Dong](https://weidong.hk/). I received my Ph.D. in Computer Science at Northwestern University (NU), advised by [Prof. Xiao Wang](https://wangxiao1254.github.io/) and [Prof. Qi Zhu](https://scholar.google.com/citations?user=TN09YMcAAAAJ&hl=en), and supported by [IBM PhD Fellowship](https://researchweb.draco.res.ibm.com/university/awards/fellowships-awardees.html). Before Northwestern, I obtained my B.E. from Zhejiang University (ZJU) in July 2020 under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ&view_op=list_works). I am open to all kinds of collaboration. Please email me if you are interested in my research.
+
+> <font color="blue">I will join the School of AI at the Chinese University of Hong Kong (Shenzhen) in Fall 2026 as an assistant professor. Please email me at wanglixu4334@gmail.com if you want to work with me as a PhD/MPhil/RA. font>
+
 
 My research is dedicated to building responsible AI by addressing real-world data concerns. By enabling AI to learn effectively from broader datasets at lower cost, we empower the creation of useful models capable of transforming multiple domains. At the same time, policymakers worldwide are raising the bar for data governance. AI systems built with these data concerns addressed can support lawful data use, protect data owners’ rights, and maintain compliance across their full lifecycle. To this end, I develop novel methods in domain generalization, federated learning, continual learning, machine unlearning, and multi-party computation, drawing on optimization theory, information theory, and cryptography.
 
@@ -60,6 +63,9 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - **Incorporating New Knowledge into Federated Learning: Advances, Insights, and Future Directions**
   - **Lixu Wang**, Sun Yinggang, Yang Zhao, Jiaqi Wu, Jiahua Dong, Ating Yin, Qinbin Li, Qingqing Ye, Dusit Niyato, Tianwei Zhang, Kwok-Yan Lam, Yu Haining, Haibo Hu, Wei Dong
   - Transaction on Machine Learning Research, **TMLR**
+- **Token Buncher: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning**
+  - Weitao Feng*, **Lixu Wang**\*, Tianyi Wei, Jie Zhang, Chongyang Gao, Sinong Zhan, Peizhuo Lyu, Wei Dong
+  - Under minor revision of CCS
 - **FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning**
   - Yuan Yao, **Lixu Wang**, Jiaqi Wu, Jin Song, Simin Chen, Zehua Wang, Zijian Tian, Wei Chen, Huixia Li, Xiaoxiao Li
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR**
@@ -71,10 +77,13 @@ My research is dedicated to building responsible AI by addressing real-world dat
   - International Conference on Management of Data, **SIGMOD**
 - **Efficient Banzhaf-Based Data Valuation for k-Nearest Neighbors**
   - Guangyi Zhang, Lutz Oettershagen, **Lixu Wang**, Aristides Gionis
-  - Under revision of VLDB
+  - International Conference on Very Large Data Bases, **VLDB**
 - **Learning From Each Other: Generalized Federated Incremental Semantic Segmentation**
   - Jiahua Dong, Wenqi Liang, Yang Cong, Gan Sun, **Lixu Wang**, Henghui Ding, Yulun Zhang, Luc Van Gool
   - IEEE Transactions on Pattern Analysis and Machine Intelligence, **TPAMI**
+- **A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Networks**
+  - Jiaqi Wu, Jing Liu, Yang Liu, **Lixu Wang**, Zehua Wang, Wei Chen, Zijian Tian, Richard Yu, Victor Leung
+  - IEEE Communications Surveys and Tutorials, **COMST**
 
 
 ## Year 2025
@@ -138,8 +147,8 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [_**Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**_](https://openreview.net/forum?id=tYRrOdSnVUy)
   - **Lixu Wang**\*, Shichao Xu\*, Ruiqi Xu, Xiao Wang, Qi Zhu
   - International Conference on Learning Representation, **ICLR** <span style="color: red;">**Oral (top 1.5%)**</span>
-- [_**Incremental 3D Object Recognition for Point Cloud Representation**_](https://ieeexplore.ieee.org/abstract/document/10054469)
-  - Jiahua Dong, Gan Sun, **Lixu Wang**, Jun Li, Lingjuan Lyu, Konukoglu Ender
+- [_**InOR-Net: Incremental 3D Object Recognition Network for Point Cloud Representation**_](https://ieeexplore.ieee.org/abstract/document/10054469)
+  - Jiahua Dong, Yang Cong, Gan Sun, **Lixu Wang**, Lingjuan Lyu, Jun Li, Konukoglu Ender
   - IEEE Transactions on Neural Networks and Learning Systems, **TNNLS**
 
 ## Year 2021 and before
