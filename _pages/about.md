@@ -27,6 +27,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 
 
 # 🔥 News
+- *2026.06*: &nbsp; 🎉Our paper about harmful fine-tuning defense has been accepted by **CCS 2026**.
 - *2026.03*: &nbsp; 🎉Our paper about audio privacy leakage has been accepted by **IEEE SP 2026**.
 - *2026.02*: &nbsp; 🎉Our papers about heterogeneous and dynamic FL have been accepted by **CVPR 2026** and **TMLR 2026**.
 - *2026.01*: &nbsp; 🎉Our paper about dynamic FL has been accepted by **TPAMI 2026**.
@@ -65,7 +66,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
   - Transaction on Machine Learning Research, **TMLR**
 - **Token Buncher: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning**
   - Weitao Feng*, **Lixu Wang**\*, Tianyi Wei, Jie Zhang, Chongyang Gao, Sinong Zhan, Peizhuo Lyu, Wei Dong
-  - Under minor revision of CCS
+  - ACM Conference on Computer and Communications Security, **CCS**
 - **FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning**
   - Yuan Yao, **Lixu Wang**, Jiaqi Wu, Jin Song, Simin Chen, Zehua Wang, Zijian Tian, Wei Chen, Huixia Li, Xiaoxiao Li
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR**
