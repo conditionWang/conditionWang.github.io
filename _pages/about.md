@@ -58,31 +58,31 @@ My research is dedicated to building responsible AI by addressing real-world dat
 \* denotes equal contribution, # denotes alphabetical ordering
 
 ## Year 2026
-- **The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models**
+- [**The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models**](https://arxiv.org/abs/2507.10016)
   - **Lixu Wang**, Kaixiang Yao, Xinfeng Li, Dong Yang, Haoyang Li, Xiaofeng Wang, Wei Dong
   - IEEE Symposium on Security and Privacy, **IEEE SP**
-- **Incorporating New Knowledge into Federated Learning: Advances, Insights, and Future Directions**
+- [**Incorporating New Knowledge into Federated Learning: Advances, Insights, and Future Directions**](https://openreview.net/forum?id=BWBfK3B3b7)
   - **Lixu Wang**, Sun Yinggang, Yang Zhao, Jiaqi Wu, Jiahua Dong, Ating Yin, Qinbin Li, Qingqing Ye, Dusit Niyato, Tianwei Zhang, Kwok-Yan Lam, Yu Haining, Haibo Hu, Wei Dong
   - Transaction on Machine Learning Research, **TMLR**
-- **Token Buncher: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning**
+- [**Token Buncher: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning**](https://arxiv.org/abs/2508.20697)
   - Weitao Feng*, **Lixu Wang**\*, Tianyi Wei, Jie Zhang, Chongyang Gao, Sinong Zhan, Peizhuo Lyu, Wei Dong
   - ACM Conference on Computer and Communications Security, **CCS**
-- **FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning**
+- [**FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning**](https://arxiv.org/abs/2511.22265)
   - Yuan Yao, **Lixu Wang**, Jiaqi Wu, Jin Song, Simin Chen, Zehua Wang, Zijian Tian, Wei Chen, Huixia Li, Xiaoxiao Li
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR**
-- **WebCloak: Characterizing and Mitigating Threats from LLM-Driven Web Agents as Intelligent Scrapers**
+- [**WebCloak: Characterizing and Mitigating Threats from LLM-Driven Web Agents as Intelligent Scrapers**](https://letterligo.netlify.app/paper/SP26_WebAgent.pdf)
   - Xinfeng Li, Tianze Qiu, Yingbin Jin, **Lixu Wang**, Hanqing Guo, Xiaojun Jia, Xiaofeng Wang, Wei Dong
   - IEEE Symposium on Security and Privacy, **IEEE SP**
-- **Defense against Poisoning Attacks under Shuffle-DP**
+- [**Defense against Poisoning Attacks under Shuffle-DP**](https://arxiv.org/abs/2605.00625)
   - Siyi Wang, Qiyao Luo, Yihua Hu, **Lixu Wang**, Quanqing Xu, Chuanhui Yang, Zhan Qin, Kui Ren, Wei Dong
   - International Conference on Management of Data, **SIGMOD**
-- **Efficient Banzhaf-Based Data Valuation for k-Nearest Neighbors**
+- [**Efficient Banzhaf-Based Data Valuation for k-Nearest Neighbors**](https://arxiv.org/abs/2605.21033)
   - Guangyi Zhang, Lutz Oettershagen, **Lixu Wang**, Aristides Gionis
   - International Conference on Very Large Data Bases, **VLDB**
-- **Learning From Each Other: Generalized Federated Incremental Semantic Segmentation**
+- [**Learning From Each Other: Generalized Federated Incremental Semantic Segmentation**](https://ieeexplore.ieee.org/document/11393904/)
   - Jiahua Dong, Wenqi Liang, Yang Cong, Gan Sun, **Lixu Wang**, Henghui Ding, Yulun Zhang, Luc Van Gool
   - IEEE Transactions on Pattern Analysis and Machine Intelligence, **TPAMI**
-- **A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Networks**
+- [**A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Networks**](https://arxiv.org/abs/2508.18803)
   - Jiaqi Wu, Jing Liu, Yang Liu, **Lixu Wang**, Zehua Wang, Wei Chen, Zijian Tian, Richard Yu, Victor Leung
   - IEEE Communications Surveys and Tutorials, **COMST**
 
@@ -91,7 +91,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - [**Phase-driven Generalization for Nonstationary Time Series**](https://arxiv.org/abs/2402.05960)
   - Payal Mohapatra\*, **Lixu Wang**\*, Qi Zhu
   - Transaction on Machine Learning Research, **TMLR** (Spotlight at NeurIPS 2025 Workshop on Learning from Time Series for Health)
-- **Federated Continuous Category Discovery and Learning**
+- [**Federated Continuous Category Discovery and Learning**](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Federated_Continuous_Category_Discovery_and_Learning_ICCV_2025_paper.pdf)
   - **Lixu Wang**\*, Chenxi Liu\*, Junfeng Guo, Qingqing Ye, Heng Huang, Haibo Hu, Wei Dong
   - IEEE/CVF Conference on Computer Vision, **ICCV**
 - [_**Split Adaptation for Pre-trained Vision Transformers**_](https://arxiv.org/abs/2503.00441)
@@ -177,8 +177,8 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - *2016.09 - 2020.07*, Zhejiang University, B.E. in Electrical and Computer Engineering, GPA: 3.96/4.0
 
 # 💬 Invited Talks
-- *2022.07*, Contrastive Learning for Time-Series Anomaly Detection, General Motors invited talks. 
-- *2022.06*, Machine Learning with Constraints from Generalization, ZJU invited talks, Hangzhou.
+- *2022.07*, Contrastive Learning for Time-Series Anomaly Detection, General Motors invited talk. 
+- *2022.06*, Machine Learning with Constraints from Generalization, ZJU invited talk, Hangzhou.
 - *2022.05*, Non-Transferable Learning for Model IP Protection, Sony AI Journal Club.
 - *2022.03*, Federated Class-Incremental Learning, SSFAI Academic Invited Talks.
 
