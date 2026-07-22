@@ -12,11 +12,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "LIXU's Lab"
-    url: "/lab/"
-
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
   - title: "Services"
     url: "/#-services"
+
+  - title: "LIXU's Lab"
+    url: "/lab/"
