@@ -12,19 +12,11 @@ author_profile: false
   </header>
 
   <section class="lab-hero">
-    <p class="lab-kicker">LIXU's Lab</p>
-    <h1>Responsible AI, Privacy, and Learning Systems</h1>
     <p class="lab-lead">
       We study trustworthy machine learning systems that can learn from broad,
       distributed, and evolving data while respecting privacy, ownership, and
       governance requirements.
     </p>
-    <div class="lab-hero__tags" aria-label="Research themes">
-      <span>Responsible AI</span>
-      <span>Federated Learning</span>
-      <span>Machine Unlearning</span>
-      <span>Data Governance</span>
-    </div>
   </section>
 
   <section class="lab-section" id="pi">
@@ -43,11 +35,11 @@ author_profile: false
           and responsible data use in AI systems.
         </p>
         <div class="lab-profile__links">
+          <a href="/#about-me" target="_self">Homepage</a>
           <a href="mailto:wanglixu4334@gmail.com">Email</a>
           <a href="https://scholar.google.com/citations?user=xuSbmssAAAAJ&amp;hl=en&amp;oi=sra">Google Scholar</a>
           <a href="https://github.com/conditionWang">GitHub</a>
         </div>
-        <p class="lab-home-link"><a href="/#about-me" target="_self">Back to Homepage</a></p>
       </div>
     </article>
   </section>

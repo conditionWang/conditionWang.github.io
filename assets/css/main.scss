@@ -183,19 +183,19 @@ h1:before, .anchor:before {
 .lab-topline {
     display: flex;
     align-items: center;
-    gap: 1.1em;
+    gap: 1.35em;
     margin: 1.2em 0 0.7em;
     padding-bottom: 1em;
     border-bottom: 1px solid var(--lab-line);
     color: var(--lab-ink);
-    font-size: 1.45em;
+    font-size: 2em;
     font-weight: 700;
     line-height: 1.2;
 }
 
 .lab-topline__image {
-    width: 340px;
-    max-width: 56%;
+    width: 520px;
+    max-width: 66%;
     height: auto;
     border-radius: 8px;
     object-fit: contain;
@@ -411,12 +411,12 @@ h1:before, .anchor:before {
     .lab-topline {
         margin-top: 0.8em;
         gap: 0.8em;
-        font-size: 1.15em;
+        font-size: 1.3em;
     }
 
     .lab-topline__image {
-        width: 230px;
-        max-width: 58%;
+        width: 300px;
+        max-width: 60%;
     }
 
     .lab-section__header,
