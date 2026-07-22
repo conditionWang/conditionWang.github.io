@@ -207,6 +207,7 @@ body.layout-lab {
 .lab-topline {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 1.6em;
     margin: 1.4em 0 0.9em;
     padding-bottom: 1.2em;
@@ -218,8 +219,8 @@ body.layout-lab {
 }
 
 .lab-topline__image {
-    width: 780px !important;
-    max-width: 68% !important;
+    width: 1080px !important;
+    max-width: 92% !important;
     height: auto;
     border-radius: 8px;
     object-fit: contain;
@@ -233,13 +234,7 @@ body.layout-lab {
     border-bottom: 1px solid var(--lab-line);
 
     &:after {
-        content: "";
-        display: block;
-        width: 72px;
-        height: 4px;
-        margin-top: 2em;
-        background: var(--lab-teal);
-        border-radius: 4px;
+        display: none;
     }
 }
 
@@ -439,8 +434,8 @@ body.layout-lab {
     }
 
     .lab-topline__image {
-        width: 420px !important;
-        max-width: 62% !important;
+        width: 560px !important;
+        max-width: 92% !important;
     }
 
     .lab-section__header,
