@@ -183,19 +183,20 @@ h1:before, .anchor:before {
 .lab-topline {
     display: flex;
     align-items: center;
-    gap: 0.9em;
-    margin: 1.4em 0 0.7em;
-    padding-bottom: 0.9em;
+    gap: 1.1em;
+    margin: 1.2em 0 0.7em;
+    padding-bottom: 1em;
     border-bottom: 1px solid var(--lab-line);
     color: var(--lab-ink);
-    font-size: 1.25em;
+    font-size: 1.45em;
     font-weight: 700;
     line-height: 1.2;
 }
 
 .lab-topline__image {
-    width: 56px;
-    height: 56px;
+    width: 340px;
+    max-width: 56%;
+    height: auto;
     border-radius: 8px;
     object-fit: contain;
     box-shadow: none !important;
@@ -275,9 +276,9 @@ h1:before, .anchor:before {
 
 .lab-profile {
     display: grid;
-    grid-template-columns: 96px 1fr;
-    gap: 1.25em;
-    align-items: center;
+    grid-template-columns: 72px 1fr;
+    gap: 1em;
+    align-items: start;
     padding: 1.25em;
     border: 1px solid var(--lab-line);
     border-radius: 8px;
@@ -286,8 +287,8 @@ h1:before, .anchor:before {
 }
 
 .lab-profile__photo {
-    width: 96px;
-    height: 96px;
+    width: 72px;
+    height: 72px;
     border-radius: 8px;
     object-fit: cover;
     box-shadow: none !important;
@@ -336,6 +337,21 @@ h1:before, .anchor:before {
     }
 }
 
+.lab-home-link {
+    margin: 0.9em 0 0 !important;
+
+    a {
+        color: var(--lab-teal);
+        font-weight: 700;
+        text-decoration: none;
+
+        &:hover {
+            color: var(--lab-blue);
+            text-decoration: underline;
+        }
+    }
+}
+
 .lab-roster-group {
     margin-top: 1.6em;
 }
@@ -348,10 +364,10 @@ h1:before, .anchor:before {
 
 .lab-member-card {
     display: grid;
-    grid-template-columns: 64px 1fr;
+    grid-template-columns: 72px 1fr;
     gap: 1em;
-    align-items: center;
-    min-height: 116px;
+    align-items: start;
+    min-height: 104px;
     padding: 1em;
     border: 1px solid var(--lab-line);
     border-radius: 8px;
@@ -363,17 +379,22 @@ h1:before, .anchor:before {
     }
 }
 
-.lab-member-card__avatar {
+.lab-member-card__photo {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 64px;
-    height: 64px;
-    border-radius: 50%;
+    width: 72px;
+    height: 72px;
+    border-radius: 8px;
     background: #eef4f4;
     color: var(--lab-teal);
     font-size: 0.8em;
     font-weight: 700;
+    object-fit: cover;
+}
+
+.lab-member-card__body {
+    min-width: 0;
 }
 
 @include breakpoint(max-width $medium) {
@@ -389,26 +410,33 @@ h1:before, .anchor:before {
 
     .lab-topline {
         margin-top: 0.8em;
-        font-size: 1.12em;
+        gap: 0.8em;
+        font-size: 1.15em;
     }
 
     .lab-topline__image {
-        width: 50px;
-        height: 50px;
+        width: 230px;
+        max-width: 58%;
     }
 
     .lab-section__header,
-    .lab-profile,
-    .lab-roster,
-    .lab-member-card {
+    .lab-roster {
         display: block;
     }
 
     .lab-profile__photo {
-        margin-bottom: 1em;
+        width: 64px;
+        height: 64px;
     }
 
-    .lab-member-card__avatar {
-        margin-bottom: 0.8em;
+    .lab-profile,
+    .lab-member-card {
+        grid-template-columns: 64px 1fr;
+        gap: 0.8em;
+    }
+
+    .lab-member-card__photo {
+        width: 64px;
+        height: 64px;
     }
 }

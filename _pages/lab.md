@@ -7,7 +7,7 @@ author_profile: false
 
 <div class="lab-page">
   <header class="lab-topline">
-    <img src="/images/lab-mark.svg" alt="" class="lab-topline__image">
+    <img src="/images/lab_logo.png" alt="LetAI TRUST" class="lab-topline__image">
     <span>LIXU's LAB</span>
   </header>
 
@@ -47,6 +47,7 @@ author_profile: false
           <a href="https://scholar.google.com/citations?user=xuSbmssAAAAJ&amp;hl=en&amp;oi=sra">Google Scholar</a>
           <a href="https://github.com/conditionWang">GitHub</a>
         </div>
+        <p class="lab-home-link"><a href="/#about-me" target="_self">Back to Homepage</a></p>
       </div>
     </article>
   </section>
@@ -61,8 +62,8 @@ author_profile: false
       <h3>PhD Students</h3>
       <div class="lab-roster">
         <article class="lab-member-card">
-          <div class="lab-member-card__avatar">TBD</div>
-          <div>
+          <div class="lab-member-card__photo">Photo</div>
+          <div class="lab-member-card__body">
             <h4>Name</h4>
             <p>Research area / cohort / email</p>
           </div>
@@ -74,8 +75,8 @@ author_profile: false
       <h3>MPhil Students</h3>
       <div class="lab-roster">
         <article class="lab-member-card">
-          <div class="lab-member-card__avatar">TBD</div>
-          <div>
+          <div class="lab-member-card__photo">Photo</div>
+          <div class="lab-member-card__body">
             <h4>Name</h4>
             <p>Research area / cohort / email</p>
           </div>
@@ -87,8 +88,8 @@ author_profile: false
       <h3>Research Assistants</h3>
       <div class="lab-roster">
         <article class="lab-member-card">
-          <div class="lab-member-card__avatar">TBD</div>
-          <div>
+          <div class="lab-member-card__photo">Photo</div>
+          <div class="lab-member-card__body">
             <h4>Name</h4>
             <p>Research area / period / email</p>
           </div>
