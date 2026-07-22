@@ -1,21 +1,23 @@
+{% assign lab_page = false %}
+{% if page.permalink == "/lab/" or page.url == "/lab/" %}
+  {% assign lab_page = true %}
+{% endif %}
+
+{% unless lab_page %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      {% if page.permalink == "/lab/" or page.url == "/lab/" %}
-        {% assign lab_page = true %}
-      {% endif %}
       <nav id="site-nav" class="greedy-nav">
-        {% unless lab_page %}<button><div class="navicon"></div></button>{% endunless %}
+        <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/#about-me">Homepage</a></li>
-          {% unless lab_page %}
-            {% for link in site.data.navigation.main %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endfor %}
-          {% endunless %}
+          {% for link in site.data.navigation.main %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
         </ul>
-        {% unless lab_page %}<ul class="hidden-links hidden"></ul>{% endunless %}
+        <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
+{% endunless %}
