@@ -11,7 +11,7 @@ author_profile: false
   </header>
 
   <section class="lab-hero">
-    <p class="lab-lead">
+    <p>
       LIXU's Lab studies trustworthy machine learning systems that can learn from broad,
       distributed, and evolving data while respecting privacy, ownership, and
       governance requirements.
