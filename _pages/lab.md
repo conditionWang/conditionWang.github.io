@@ -2,7 +2,7 @@
 permalink: /lab/
 title: "LIXU's Lab"
 excerpt: ""
-author_profile: true
+author_profile: false
 ---
 
 # 📖 LIXU's Lab
