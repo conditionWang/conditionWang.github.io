@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">LIXU's Lab mark</title>
+  <desc id="desc">Abstract connected nodes inside a rounded square.</desc>
+  <rect width="96" height="96" rx="18" fill="#f5f8f9"/>
+  <path d="M24 62 43 34l17 18 13-26" fill="none" stroke="#224b8d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="62" r="8" fill="#14746f"/>
+  <circle cx="43" cy="34" r="8" fill="#224b8d"/>
+  <circle cx="60" cy="52" r="8" fill="#b7791f"/>
+  <circle cx="73" cy="26" r="8" fill="#14746f"/>
+  <path d="M28 75h40" stroke="#dbe5ea" stroke-width="6" stroke-linecap="round"/>
+</svg>

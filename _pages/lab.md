@@ -6,6 +6,11 @@ author_profile: false
 ---
 
 <div class="lab-page">
+  <header class="lab-topline">
+    <img src="/images/lab-mark.svg" alt="" class="lab-topline__image">
+    <span>LIXU's LAB</span>
+  </header>
+
   <section class="lab-hero">
     <p class="lab-kicker">LIXU's Lab</p>
     <h1>Responsible AI, Privacy, and Learning Systems</h1>
