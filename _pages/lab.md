@@ -8,12 +8,11 @@ author_profile: false
 <div class="lab-page">
   <header class="lab-topline">
     <img src="/images/lab_logo.png" alt="LetAI TRUST" class="lab-topline__image">
-    <span>LIXU's LAB</span>
   </header>
 
   <section class="lab-hero">
     <p class="lab-lead">
-      We study trustworthy machine learning systems that can learn from broad,
+      LIXU's Lab studies trustworthy machine learning systems that can learn from broad,
       distributed, and evolving data while respecting privacy, ownership, and
       governance requirements.
     </p>
