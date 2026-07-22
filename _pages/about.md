@@ -172,9 +172,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - *2019*: _Wang Guosong_ Outstanding Scholarship (ZJU's highest honor in EECS)
 - *2018*: _1st Prize_, Chinese Mathematical Contest in Modeling, top 0.3%
 
-# 📖 Educations
-- *2021.01 - 2024.12*, Northwestern University, Ph.D. in Computer Science, GPA: 4.0/4.0
-- *2016.09 - 2020.07*, Zhejiang University, B.E. in Electrical and Computer Engineering, GPA: 3.96/4.0
+# 📖 LIXU's Lab
 
 # 💬 Invited Talks
 - *2022.07*, Contrastive Learning for Time-Series Anomaly Detection, General Motors invited talk. 
