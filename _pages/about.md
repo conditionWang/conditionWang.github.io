@@ -173,6 +173,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - *2018*: _1st Prize_, Chinese Mathematical Contest in Modeling, top 0.3%
 
 # 📖 LIXU's Lab
+ Under Construction...
 
 # 💬 Invited Talks
 - *2022.07*, Contrastive Learning for Time-Series Anomaly Detection, General Motors invited talk. 
