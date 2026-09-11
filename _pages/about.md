@@ -27,6 +27,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 
 
 # 🔥 News
+- *2026.09*: &nbsp; 🎉Our paper about privacy-preserving data valuation has been accepted by **ICDE 2027**.
 - *2026.06*: &nbsp; 🎉Our paper about harmful fine-tuning defense has been accepted by **CCS 2026**.
 - *2026.03*: &nbsp; 🎉Our paper about audio privacy leakage has been accepted by **IEEE SP 2026**.
 - *2026.02*: &nbsp; 🎉Our papers about heterogeneous and dynamic FL have been accepted by **CVPR 2026** and **TMLR 2026**.
@@ -56,6 +57,12 @@ My research is dedicated to building responsible AI by addressing real-world dat
 
 # 📝 Publications 
 \* denotes equal contribution, # denotes alphabetical ordering
+
+
+## Year 2027
+- **SecDVA: A Maliciously Secure Multi-Party Framework for Data Value Assessment in Modern Machine Learning Data Markets**
+  - Lixu Wang\*, Xinpeng Yang\*, Meng Hao, Guangyi Zhang, Tianwei Zhang, Wei Dong, Chenkai Weng
+  - IEEE Conference on Data Engineering, **ICDE**
 
 ## Year 2026
 - [**The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models**](https://arxiv.org/abs/2507.10016)
