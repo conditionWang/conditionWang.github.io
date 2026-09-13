@@ -61,7 +61,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
 
 ## Year 2027
 - **SecDVA: A Maliciously Secure Multi-Party Framework for Data Value Assessment in Modern Machine Learning Data Markets**
-  - Lixu Wang\*, Xinpeng Yang\*, Meng Hao, Guangyi Zhang, Tianwei Zhang, Wei Dong, Chenkai Weng
+  - **Lixu Wang**\*, Xinpeng Yang\*, Meng Hao, Guangyi Zhang, Tianwei Zhang, Wei Dong, Chenkai Weng
   - IEEE Conference on Data Engineering, **ICDE**
 
 ## Year 2026
