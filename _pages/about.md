@@ -27,18 +27,18 @@ My research is dedicated to building responsible AI by addressing real-world dat
 
 
 # 🔥 News
-- *2026.09*: &nbsp; 🎉Our paper about privacy-preserving data valuation has been accepted by **ICDE 2027**.
+- *2026.09*: &nbsp; 🎉Our papers about privacy-preserving data valuation and retrieval have been accepted by **ICDE 2027** and **VLDB 2027**.
 - *2026.06*: &nbsp; 🎉Our paper about harmful fine-tuning defense has been accepted by **CCS 2026**.
 - *2026.03*: &nbsp; 🎉Our paper about audio privacy leakage has been accepted by **IEEE SP 2026**.
 - *2026.02*: &nbsp; 🎉Our papers about heterogeneous and dynamic FL have been accepted by **CVPR 2026** and **TMLR 2026**.
 - *2026.01*: &nbsp; 🎉Our paper about dynamic FL has been accepted by **TPAMI 2026**.
 - *2025.09*: &nbsp; 🎉Our papers about shuffle-DP and web agent governance have been accepted by **SIGMOD 2026** and **IEEE SP 2026**.
-- *2025.07*: &nbsp; 🎉Our proposal about privacy-preserving data transaction has been successfully funded (210,000 $SGD).
+- *2025.07*: &nbsp; 🎉Our proposal about privacy-preserving data transactions has been successfully funded (210,000 $SGD).
 - *2025.06*: &nbsp; 🎉Our papers about dynamic FL, FL prompt tuning, and visual privacy leakage have been accepted by **ICCV 2025** and **MM 2025**.
 - *2025.02*: &nbsp; 🎉Our paper about private downstream task adaptation of pre-trained transformers has been accepted to **CVPR 2025**.
 - *2025.01*: &nbsp; 🎉Our papers about LLM unlearning and backdoor attacks have been accepted by **ICLR 2025**.
 - *2024.09*: &nbsp; 🎉Our paper about Image Retrieval has been accepted by **NeurIPS 2024**.
-- *2024.03*: &nbsp; Help to submit one NSF proposal with CISPA.
+- *2024.03*: &nbsp; Helped submit one NSF proposal with CISPA.
 - *2023.12*: &nbsp; 🎉Our paper about anomaly detection has been accepted by **ICASSP 2024**.
 - *2023.09*: &nbsp; 🎉Our paper about data IP has been accepted by **NeurIPS 2023**.
 - *2023.08*: &nbsp; 🎉Super excited to be an **IBM PhD Fellowship** recipient.
@@ -63,6 +63,9 @@ My research is dedicated to building responsible AI by addressing real-world dat
 - **SecDVA: A Maliciously Secure Multi-Party Framework for Data Value Assessment in Modern Machine Learning Data Markets**
   - **Lixu Wang**\*, Xinpeng Yang\*, Meng Hao, Guangyi Zhang, Tianwei Zhang, Wei Dong, Chenkai Weng
   - IEEE Conference on Data Engineering, **ICDE**
+- **HNSecW: A Logarithmic-Time MPC Protocol for Approximate Nearest Neighbor Search**
+  - Fahong Zhang, Weijie Jin, **Lixu Wang**, Ning Luo, Xiao Wang, Wei Dong
+  - International Conference on Very Large Data Bases, **VLDB**
 
 ## Year 2026
 - [**The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models**](https://arxiv.org/abs/2507.10016)
@@ -70,7 +73,7 @@ My research is dedicated to building responsible AI by addressing real-world dat
   - IEEE Symposium on Security and Privacy, **IEEE SP**
 - [**Incorporating New Knowledge into Federated Learning: Advances, Insights, and Future Directions**](https://openreview.net/forum?id=BWBfK3B3b7)
   - **Lixu Wang**, Sun Yinggang, Yang Zhao, Jiaqi Wu, Jiahua Dong, Ating Yin, Qinbin Li, Qingqing Ye, Dusit Niyato, Tianwei Zhang, Kwok-Yan Lam, Yu Haining, Haibo Hu, Wei Dong
-  - Transaction on Machine Learning Research, **TMLR**
+  - Transactions on Machine Learning Research, **TMLR**
 - [**Token Buncher: Shielding LLMs from Harmful Reinforcement Learning Fine-Tuning**](https://arxiv.org/abs/2508.20697)
   - Weitao Feng*, **Lixu Wang**\*, Tianyi Wei, Jie Zhang, Chongyang Gao, Sinong Zhan, Peizhuo Lyu, Wei Dong
   - ACM Conference on Computer and Communications Security, **CCS**
