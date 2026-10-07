@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lixu Wang"
-  avatar           : "images/profile.jpg"
+  avatar           : "images/profile.png"
   bio              : "Assistant Professor at SAI of CUHK (SZ)"
   location         : "Shenzhen, China"
   employer         :
